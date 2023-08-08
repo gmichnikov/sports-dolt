@@ -1,0 +1,2430 @@
+Date,Home Team,Road Team,City,State,League,Sport
+03/30/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+03/30/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+03/30/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+03/30/23,Houston Astros,Chicago White Sox,Houston,Texas,MLB,Baseball
+03/30/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+03/30/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+03/30/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+03/30/23,New York Yankees,San Francisco Giants,New York,New York,MLB,Baseball
+03/30/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+03/30/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+03/30/23,Seattle Mariners,Cleveland Guardians,Seattle,Washington,MLB,Baseball
+03/30/23,St. Louis Cardinals,Toronto Blue Jays,St. Louis,Missouri,MLB,Baseball
+03/30/23,Tampa Bay Rays,Detroit Tigers,Tampa,Florida,MLB,Baseball
+03/30/23,Texas Rangers,Philadelphia Phillies,Arlington,Texas,MLB,Baseball
+03/30/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+03/31/23,Houston Astros,Chicago White Sox,Houston,Texas,MLB,Baseball
+03/31/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+03/31/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+03/31/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+03/31/23,Seattle Mariners,Cleveland Guardians,Seattle,Washington,MLB,Baseball
+04/01/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+04/01/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+04/01/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+04/01/23,Houston Astros,Chicago White Sox,Houston,Texas,MLB,Baseball
+04/01/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+04/01/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+04/01/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+04/01/23,New York Yankees,San Francisco Giants,New York,New York,MLB,Baseball
+04/01/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+04/01/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+04/01/23,Seattle Mariners,Cleveland Guardians,Seattle,Washington,MLB,Baseball
+04/01/23,St. Louis Cardinals,Toronto Blue Jays,St. Louis,Missouri,MLB,Baseball
+04/01/23,Tampa Bay Rays,Detroit Tigers,Tampa,Florida,MLB,Baseball
+04/01/23,Texas Rangers,Philadelphia Phillies,Arlington,Texas,MLB,Baseball
+04/01/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+04/02/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+04/02/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+04/02/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+04/02/23,Houston Astros,Chicago White Sox,Houston,Texas,MLB,Baseball
+04/02/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+04/02/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+04/02/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+04/02/23,New York Yankees,San Francisco Giants,New York,New York,MLB,Baseball
+04/02/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+04/02/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+04/02/23,Seattle Mariners,Cleveland Guardians,Seattle,Washington,MLB,Baseball
+04/02/23,St. Louis Cardinals,Toronto Blue Jays,St. Louis,Missouri,MLB,Baseball
+04/02/23,Tampa Bay Rays,Detroit Tigers,Tampa,Florida,MLB,Baseball
+04/02/23,Texas Rangers,Philadelphia Phillies,Arlington,Texas,MLB,Baseball
+04/02/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+04/03/23,Boston Red Sox,Pittsburgh Pirates,Boston,Massachusetts,MLB,Baseball
+04/03/23,Chicago White Sox,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+04/03/23,Cincinnati Reds,Chicago Cubs,Cincinnati,Ohio,MLB,Baseball
+04/03/23,Houston Astros,Detroit Tigers,Houston,Texas,MLB,Baseball
+04/03/23,Kansas City Royals,Toronto Blue Jays,Kansas City,Missouri,MLB,Baseball
+04/03/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+04/03/23,Miami Marlins,Minnesota Twins,Miami,Florida,MLB,Baseball
+04/03/23,Milwaukee Brewers,New York Mets,Milwaukee,Wisconsin,MLB,Baseball
+04/03/23,New York Yankees,Philadelphia Phillies,New York,New York,MLB,Baseball
+04/03/23,Oakland Athletics,Cleveland Guardians,Oakland,California,MLB,Baseball
+04/03/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+04/03/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+04/03/23,St. Louis Cardinals,Atlanta Braves,St. Louis,Missouri,MLB,Baseball
+04/03/23,Texas Rangers,Baltimore Orioles,Arlington,Texas,MLB,Baseball
+04/03/23,Washington Nationals,Tampa Bay Rays,Washington D.C.,Washington D.C.,MLB,Baseball
+04/04/23,Boston Red Sox,Pittsburgh Pirates,Boston,Massachusetts,MLB,Baseball
+04/04/23,Cincinnati Reds,Chicago Cubs,Cincinnati,Ohio,MLB,Baseball
+04/04/23,Houston Astros,Detroit Tigers,Houston,Texas,MLB,Baseball
+04/04/23,Kansas City Royals,Toronto Blue Jays,Kansas City,Missouri,MLB,Baseball
+04/04/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+04/04/23,Miami Marlins,Minnesota Twins,Miami,Florida,MLB,Baseball
+04/04/23,Milwaukee Brewers,New York Mets,Milwaukee,Wisconsin,MLB,Baseball
+04/04/23,New York Yankees,Philadelphia Phillies,New York,New York,MLB,Baseball
+04/04/23,Oakland Athletics,Cleveland Guardians,Oakland,California,MLB,Baseball
+04/04/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+04/04/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+04/04/23,St. Louis Cardinals,Atlanta Braves,St. Louis,Missouri,MLB,Baseball
+04/04/23,Texas Rangers,Baltimore Orioles,Arlington,Texas,MLB,Baseball
+04/04/23,Washington Nationals,Tampa Bay Rays,Washington D.C.,Washington D.C.,MLB,Baseball
+04/05/23,Boston Red Sox,Pittsburgh Pirates,Boston,Massachusetts,MLB,Baseball
+04/05/23,Chicago White Sox,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+04/05/23,Houston Astros,Detroit Tigers,Houston,Texas,MLB,Baseball
+04/05/23,Kansas City Royals,Toronto Blue Jays,Kansas City,Missouri,MLB,Baseball
+04/05/23,Miami Marlins,Minnesota Twins,Miami,Florida,MLB,Baseball
+04/05/23,Milwaukee Brewers,New York Mets,Milwaukee,Wisconsin,MLB,Baseball
+04/05/23,New York Yankees,Philadelphia Phillies,New York,New York,MLB,Baseball
+04/05/23,Oakland Athletics,Cleveland Guardians,Oakland,California,MLB,Baseball
+04/05/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+04/05/23,St. Louis Cardinals,Atlanta Braves,St. Louis,Missouri,MLB,Baseball
+04/05/23,Texas Rangers,Baltimore Orioles,Arlington,Texas,MLB,Baseball
+04/05/23,Washington Nationals,Tampa Bay Rays,Washington D.C.,Washington D.C.,MLB,Baseball
+04/06/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+04/06/23,Atlanta Braves,San Diego Padres,Atlanta,Georgia,MLB,Baseball
+04/06/23,Chicago White Sox,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+04/06/23,Colorado Rockies,Washington Nationals,Denver,Colorado,MLB,Baseball
+04/06/23,Detroit Tigers,Boston Red Sox,Detroit,Michigan,MLB,Baseball
+04/06/23,Kansas City Royals,Toronto Blue Jays,Kansas City,Missouri,MLB,Baseball
+04/07/23,Los Angeles Angels,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+04/07/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+04/07/23,Atlanta Braves,San Diego Padres,Atlanta,Georgia,MLB,Baseball
+04/07/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+04/07/23,Chicago Cubs,Texas Rangers,Chicago,Illinois,MLB,Baseball
+04/07/23,Cleveland Guardians,Seattle Mariners,Cleveland,Ohio,MLB,Baseball
+04/07/23,Colorado Rockies,Washington Nationals,Denver,Colorado,MLB,Baseball
+04/07/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+04/07/23,Minnesota Twins,Houston Astros,Minneapolis,Minnesota,MLB,Baseball
+04/07/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+04/07/23,Philadelphia Phillies,Cincinnati Reds,Philadelphia,Pennsylvania,MLB,Baseball
+04/07/23,Pittsburgh Pirates,Chicago White Sox,Pittsburgh,Pennsylvania,MLB,Baseball
+04/07/23,San Francisco Giants,Kansas City Royals,San Francisco,California,MLB,Baseball
+04/07/23,Tampa Bay Rays,Oakland Athletics,Tampa,Florida,MLB,Baseball
+04/08/23,Los Angeles Angels,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+04/08/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+04/08/23,Atlanta Braves,San Diego Padres,Atlanta,Georgia,MLB,Baseball
+04/08/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+04/08/23,Chicago Cubs,Texas Rangers,Chicago,Illinois,MLB,Baseball
+04/08/23,Cleveland Guardians,Seattle Mariners,Cleveland,Ohio,MLB,Baseball
+04/08/23,Colorado Rockies,Washington Nationals,Denver,Colorado,MLB,Baseball
+04/08/23,Detroit Tigers,Boston Red Sox,Detroit,Michigan,MLB,Baseball
+04/08/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+04/08/23,Minnesota Twins,Houston Astros,Minneapolis,Minnesota,MLB,Baseball
+04/08/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+04/08/23,Philadelphia Phillies,Cincinnati Reds,Philadelphia,Pennsylvania,MLB,Baseball
+04/08/23,Pittsburgh Pirates,Chicago White Sox,Pittsburgh,Pennsylvania,MLB,Baseball
+04/08/23,San Francisco Giants,Kansas City Royals,San Francisco,California,MLB,Baseball
+04/08/23,Tampa Bay Rays,Oakland Athletics,Tampa,Florida,MLB,Baseball
+04/09/23,Los Angeles Angels,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+04/09/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+04/09/23,Atlanta Braves,San Diego Padres,Atlanta,Georgia,MLB,Baseball
+04/09/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+04/09/23,Chicago Cubs,Texas Rangers,Chicago,Illinois,MLB,Baseball
+04/09/23,Cleveland Guardians,Seattle Mariners,Cleveland,Ohio,MLB,Baseball
+04/09/23,Colorado Rockies,Washington Nationals,Denver,Colorado,MLB,Baseball
+04/09/23,Detroit Tigers,Boston Red Sox,Detroit,Michigan,MLB,Baseball
+04/09/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+04/09/23,Minnesota Twins,Houston Astros,Minneapolis,Minnesota,MLB,Baseball
+04/09/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+04/09/23,Philadelphia Phillies,Cincinnati Reds,Philadelphia,Pennsylvania,MLB,Baseball
+04/09/23,Pittsburgh Pirates,Chicago White Sox,Pittsburgh,Pennsylvania,MLB,Baseball
+04/09/23,San Francisco Giants,Kansas City Royals,San Francisco,California,MLB,Baseball
+04/09/23,Tampa Bay Rays,Oakland Athletics,Tampa,Florida,MLB,Baseball
+04/10/23,Los Angeles Angels,Washington Nationals,Los Angeles,California,MLB,Baseball
+04/10/23,Arizona Diamondbacks,Milwaukee Brewers,Phoenix,Arizona,MLB,Baseball
+04/10/23,Atlanta Braves,Cincinnati Reds,Atlanta,Georgia,MLB,Baseball
+04/10/23,Baltimore Orioles,Oakland Athletics,Baltimore,Maryland,MLB,Baseball
+04/10/23,Chicago Cubs,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+04/10/23,Cleveland Guardians,New York Yankees,Cleveland,Ohio,MLB,Baseball
+04/10/23,Colorado Rockies,St. Louis Cardinals,Denver,Colorado,MLB,Baseball
+04/10/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+04/10/23,New York Mets,San Diego Padres,New York,New York,MLB,Baseball
+04/10/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+04/10/23,Pittsburgh Pirates,Houston Astros,Pittsburgh,Pennsylvania,MLB,Baseball
+04/10/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+04/10/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+04/10/23,Texas Rangers,Kansas City Royals,Arlington,Texas,MLB,Baseball
+04/11/23,Los Angeles Angels,Washington Nationals,Los Angeles,California,MLB,Baseball
+04/11/23,Arizona Diamondbacks,Milwaukee Brewers,Phoenix,Arizona,MLB,Baseball
+04/11/23,Atlanta Braves,Cincinnati Reds,Atlanta,Georgia,MLB,Baseball
+04/11/23,Baltimore Orioles,Oakland Athletics,Baltimore,Maryland,MLB,Baseball
+04/11/23,Chicago Cubs,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+04/11/23,Cleveland Guardians,New York Yankees,Cleveland,Ohio,MLB,Baseball
+04/11/23,Colorado Rockies,St. Louis Cardinals,Denver,Colorado,MLB,Baseball
+04/11/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+04/11/23,New York Mets,San Diego Padres,New York,New York,MLB,Baseball
+04/11/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+04/11/23,Pittsburgh Pirates,Houston Astros,Pittsburgh,Pennsylvania,MLB,Baseball
+04/11/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+04/11/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+04/11/23,Texas Rangers,Kansas City Royals,Arlington,Texas,MLB,Baseball
+04/11/23,Toronto Blue Jays,Detroit Tigers,Toronto,Ontario,MLB,Baseball
+04/12/23,Los Angeles Angels,Washington Nationals,Los Angeles,California,MLB,Baseball
+04/12/23,Arizona Diamondbacks,Milwaukee Brewers,Phoenix,Arizona,MLB,Baseball
+04/12/23,Atlanta Braves,Cincinnati Reds,Atlanta,Georgia,MLB,Baseball
+04/12/23,Baltimore Orioles,Oakland Athletics,Baltimore,Maryland,MLB,Baseball
+04/12/23,Chicago Cubs,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+04/12/23,Cleveland Guardians,New York Yankees,Cleveland,Ohio,MLB,Baseball
+04/12/23,Colorado Rockies,St. Louis Cardinals,Denver,Colorado,MLB,Baseball
+04/12/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+04/12/23,New York Mets,San Diego Padres,New York,New York,MLB,Baseball
+04/12/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+04/12/23,Pittsburgh Pirates,Houston Astros,Pittsburgh,Pennsylvania,MLB,Baseball
+04/12/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+04/12/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+04/12/23,Texas Rangers,Kansas City Royals,Arlington,Texas,MLB,Baseball
+04/12/23,Toronto Blue Jays,Detroit Tigers,Toronto,Ontario,MLB,Baseball
+04/13/23,Baltimore Orioles,Oakland Athletics,Baltimore,Maryland,MLB,Baseball
+04/13/23,Cincinnati Reds,Philadelphia Phillies,Cincinnati,Ohio,MLB,Baseball
+04/13/23,New York Yankees,Minnesota Twins,New York,New York,MLB,Baseball
+04/13/23,San Diego Padres,Milwaukee Brewers,San Diego,California,MLB,Baseball
+04/13/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+04/13/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+04/13/23,Toronto Blue Jays,Detroit Tigers,Toronto,Ontario,MLB,Baseball
+04/14/23,Boston Red Sox,Los Angeles Angels,Boston,Massachusetts,MLB,Baseball
+04/14/23,Chicago White Sox,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+04/14/23,Cincinnati Reds,Philadelphia Phillies,Cincinnati,Ohio,MLB,Baseball
+04/14/23,Detroit Tigers,San Francisco Giants,Detroit,Michigan,MLB,Baseball
+04/14/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+04/14/23,Kansas City Royals,Atlanta Braves,Kansas City,Missouri,MLB,Baseball
+04/14/23,Los Angeles Dodgers,Chicago Cubs,Los Angeles,California,MLB,Baseball
+04/14/23,Miami Marlins,Arizona Diamondbacks,Miami,Florida,MLB,Baseball
+04/14/23,New York Yankees,Minnesota Twins,New York,New York,MLB,Baseball
+04/14/23,Oakland Athletics,New York Mets,Oakland,California,MLB,Baseball
+04/14/23,San Diego Padres,Milwaukee Brewers,San Diego,California,MLB,Baseball
+04/14/23,Seattle Mariners,Colorado Rockies,Seattle,Washington,MLB,Baseball
+04/14/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+04/14/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+04/14/23,Washington Nationals,Cleveland Guardians,Washington D.C.,Washington D.C.,MLB,Baseball
+04/15/23,Boston Red Sox,Los Angeles Angels,Boston,Massachusetts,MLB,Baseball
+04/15/23,Chicago White Sox,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+04/15/23,Cincinnati Reds,Philadelphia Phillies,Cincinnati,Ohio,MLB,Baseball
+04/15/23,Detroit Tigers,San Francisco Giants,Detroit,Michigan,MLB,Baseball
+04/15/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+04/15/23,Kansas City Royals,Atlanta Braves,Kansas City,Missouri,MLB,Baseball
+04/15/23,Los Angeles Dodgers,Chicago Cubs,Los Angeles,California,MLB,Baseball
+04/15/23,Miami Marlins,Arizona Diamondbacks,Miami,Florida,MLB,Baseball
+04/15/23,New York Yankees,Minnesota Twins,New York,New York,MLB,Baseball
+04/15/23,Oakland Athletics,New York Mets,Oakland,California,MLB,Baseball
+04/15/23,San Diego Padres,Milwaukee Brewers,San Diego,California,MLB,Baseball
+04/15/23,Seattle Mariners,Colorado Rockies,Seattle,Washington,MLB,Baseball
+04/15/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+04/15/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+04/15/23,Washington Nationals,Cleveland Guardians,Washington D.C.,Washington D.C.,MLB,Baseball
+04/16/23,Boston Red Sox,Los Angeles Angels,Boston,Massachusetts,MLB,Baseball
+04/16/23,Chicago White Sox,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+04/16/23,Cincinnati Reds,Philadelphia Phillies,Cincinnati,Ohio,MLB,Baseball
+04/16/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+04/16/23,Kansas City Royals,Atlanta Braves,Kansas City,Missouri,MLB,Baseball
+04/16/23,Los Angeles Dodgers,Chicago Cubs,Los Angeles,California,MLB,Baseball
+04/16/23,Miami Marlins,Arizona Diamondbacks,Miami,Florida,MLB,Baseball
+04/16/23,New York Yankees,Minnesota Twins,New York,New York,MLB,Baseball
+04/16/23,Oakland Athletics,New York Mets,Oakland,California,MLB,Baseball
+04/16/23,San Diego Padres,Milwaukee Brewers,San Diego,California,MLB,Baseball
+04/16/23,Seattle Mariners,Colorado Rockies,Seattle,Washington,MLB,Baseball
+04/16/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+04/16/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+04/16/23,Washington Nationals,Cleveland Guardians,Washington D.C.,Washington D.C.,MLB,Baseball
+04/17/23,Boston Red Sox,Los Angeles Angels,Boston,Massachusetts,MLB,Baseball
+04/17/23,Cincinnati Reds,Tampa Bay Rays,Cincinnati,Ohio,MLB,Baseball
+04/17/23,Colorado Rockies,Pittsburgh Pirates,Denver,Colorado,MLB,Baseball
+04/17/23,Houston Astros,Toronto Blue Jays,Houston,Texas,MLB,Baseball
+04/17/23,Kansas City Royals,Texas Rangers,Kansas City,Missouri,MLB,Baseball
+04/17/23,Los Angeles Dodgers,New York Mets,Los Angeles,California,MLB,Baseball
+04/17/23,Miami Marlins,San Francisco Giants,Miami,Florida,MLB,Baseball
+04/17/23,Oakland Athletics,Chicago Cubs,Oakland,California,MLB,Baseball
+04/17/23,San Diego Padres,Atlanta Braves,San Diego,California,MLB,Baseball
+04/17/23,Seattle Mariners,Milwaukee Brewers,Seattle,Washington,MLB,Baseball
+04/17/23,St. Louis Cardinals,Arizona Diamondbacks,St. Louis,Missouri,MLB,Baseball
+04/18/23,Boston Red Sox,Minnesota Twins,Boston,Massachusetts,MLB,Baseball
+04/18/23,Chicago White Sox,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+04/18/23,Chicago White Sox,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+04/18/23,Cincinnati Reds,Tampa Bay Rays,Cincinnati,Ohio,MLB,Baseball
+04/18/23,Colorado Rockies,Pittsburgh Pirates,Denver,Colorado,MLB,Baseball
+04/18/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+04/18/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+04/18/23,Houston Astros,Toronto Blue Jays,Houston,Texas,MLB,Baseball
+04/18/23,Kansas City Royals,Texas Rangers,Kansas City,Missouri,MLB,Baseball
+04/18/23,Los Angeles Dodgers,New York Mets,Los Angeles,California,MLB,Baseball
+04/18/23,Miami Marlins,San Francisco Giants,Miami,Florida,MLB,Baseball
+04/18/23,New York Yankees,Los Angeles Angels,New York,New York,MLB,Baseball
+04/18/23,Oakland Athletics,Chicago Cubs,Oakland,California,MLB,Baseball
+04/18/23,San Diego Padres,Atlanta Braves,San Diego,California,MLB,Baseball
+04/18/23,Seattle Mariners,Milwaukee Brewers,Seattle,Washington,MLB,Baseball
+04/18/23,St. Louis Cardinals,Arizona Diamondbacks,St. Louis,Missouri,MLB,Baseball
+04/18/23,Washington Nationals,Baltimore Orioles,Washington D.C.,Washington D.C.,MLB,Baseball
+04/19/23,Boston Red Sox,Minnesota Twins,Boston,Massachusetts,MLB,Baseball
+04/19/23,Chicago White Sox,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+04/19/23,Cincinnati Reds,Tampa Bay Rays,Cincinnati,Ohio,MLB,Baseball
+04/19/23,Colorado Rockies,Pittsburgh Pirates,Denver,Colorado,MLB,Baseball
+04/19/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+04/19/23,Houston Astros,Toronto Blue Jays,Houston,Texas,MLB,Baseball
+04/19/23,Kansas City Royals,Texas Rangers,Kansas City,Missouri,MLB,Baseball
+04/19/23,Los Angeles Dodgers,New York Mets,Los Angeles,California,MLB,Baseball
+04/19/23,Miami Marlins,San Francisco Giants,Miami,Florida,MLB,Baseball
+04/19/23,New York Yankees,Los Angeles Angels,New York,New York,MLB,Baseball
+04/19/23,Oakland Athletics,Chicago Cubs,Oakland,California,MLB,Baseball
+04/19/23,San Diego Padres,Atlanta Braves,San Diego,California,MLB,Baseball
+04/19/23,Seattle Mariners,Milwaukee Brewers,Seattle,Washington,MLB,Baseball
+04/19/23,St. Louis Cardinals,Arizona Diamondbacks,St. Louis,Missouri,MLB,Baseball
+04/19/23,Washington Nationals,Baltimore Orioles,Washington D.C.,Washington D.C.,MLB,Baseball
+04/20/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+04/20/23,Boston Red Sox,Minnesota Twins,Boston,Massachusetts,MLB,Baseball
+04/20/23,Chicago Cubs,Los Angeles Dodgers,Chicago,Illinois,MLB,Baseball
+04/20/23,New York Yankees,Los Angeles Angels,New York,New York,MLB,Baseball
+04/20/23,Philadelphia Phillies,Colorado Rockies,Philadelphia,Pennsylvania,MLB,Baseball
+04/20/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+04/20/23,San Francisco Giants,New York Mets,San Francisco,California,MLB,Baseball
+04/21/23,Los Angeles Angels,Kansas City Royals,Los Angeles,California,MLB,Baseball
+04/21/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+04/21/23,Atlanta Braves,Houston Astros,Atlanta,Georgia,MLB,Baseball
+04/21/23,Baltimore Orioles,Detroit Tigers,Baltimore,Maryland,MLB,Baseball
+04/21/23,Chicago Cubs,Los Angeles Dodgers,Chicago,Illinois,MLB,Baseball
+04/21/23,Milwaukee Brewers,Boston Red Sox,Milwaukee,Wisconsin,MLB,Baseball
+04/21/23,Minnesota Twins,Washington Nationals,Minneapolis,Minnesota,MLB,Baseball
+04/21/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+04/21/23,Philadelphia Phillies,Colorado Rockies,Philadelphia,Pennsylvania,MLB,Baseball
+04/21/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+04/21/23,Seattle Mariners,St. Louis Cardinals,Seattle,Washington,MLB,Baseball
+04/21/23,San Francisco Giants,New York Mets,San Francisco,California,MLB,Baseball
+04/21/23,Tampa Bay Rays,Chicago White Sox,Tampa,Florida,MLB,Baseball
+04/21/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+04/22/23,Los Angeles Angels,Kansas City Royals,Los Angeles,California,MLB,Baseball
+04/22/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+04/22/23,Atlanta Braves,Houston Astros,Atlanta,Georgia,MLB,Baseball
+04/22/23,Baltimore Orioles,Detroit Tigers,Baltimore,Maryland,MLB,Baseball
+04/22/23,Chicago Cubs,Los Angeles Dodgers,Chicago,Illinois,MLB,Baseball
+04/22/23,Cleveland Guardians,Miami Marlins,Cleveland,Ohio,MLB,Baseball
+04/22/23,Cleveland Guardians,Miami Marlins,Cleveland,Ohio,MLB,Baseball
+04/22/23,Milwaukee Brewers,Boston Red Sox,Milwaukee,Wisconsin,MLB,Baseball
+04/22/23,Minnesota Twins,Washington Nationals,Minneapolis,Minnesota,MLB,Baseball
+04/22/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+04/22/23,Philadelphia Phillies,Colorado Rockies,Philadelphia,Pennsylvania,MLB,Baseball
+04/22/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+04/22/23,Seattle Mariners,St. Louis Cardinals,Seattle,Washington,MLB,Baseball
+04/22/23,San Francisco Giants,New York Mets,San Francisco,California,MLB,Baseball
+04/22/23,Tampa Bay Rays,Chicago White Sox,Tampa,Florida,MLB,Baseball
+04/22/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+04/23/23,Los Angeles Angels,Kansas City Royals,Los Angeles,California,MLB,Baseball
+04/23/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+04/23/23,Atlanta Braves,Houston Astros,Atlanta,Georgia,MLB,Baseball
+04/23/23,Baltimore Orioles,Detroit Tigers,Baltimore,Maryland,MLB,Baseball
+04/23/23,Chicago Cubs,Los Angeles Dodgers,Chicago,Illinois,MLB,Baseball
+04/23/23,Cleveland Guardians,Miami Marlins,Cleveland,Ohio,MLB,Baseball
+04/23/23,Milwaukee Brewers,Boston Red Sox,Milwaukee,Wisconsin,MLB,Baseball
+04/23/23,Minnesota Twins,Washington Nationals,Minneapolis,Minnesota,MLB,Baseball
+04/23/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+04/23/23,Philadelphia Phillies,Colorado Rockies,Philadelphia,Pennsylvania,MLB,Baseball
+04/23/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+04/23/23,Seattle Mariners,St. Louis Cardinals,Seattle,Washington,MLB,Baseball
+04/23/23,San Francisco Giants,New York Mets,San Francisco,California,MLB,Baseball
+04/23/23,Tampa Bay Rays,Chicago White Sox,Tampa,Florida,MLB,Baseball
+04/23/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+04/24/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+04/24/23,Arizona Diamondbacks,Kansas City Royals,Phoenix,Arizona,MLB,Baseball
+04/24/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+04/24/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+04/24/23,Cincinnati Reds,Texas Rangers,Cincinnati,Ohio,MLB,Baseball
+04/24/23,Cleveland Guardians,Colorado Rockies,Cleveland,Ohio,MLB,Baseball
+04/24/23,Milwaukee Brewers,Detroit Tigers,Milwaukee,Wisconsin,MLB,Baseball
+04/24/23,Minnesota Twins,New York Yankees,Minneapolis,Minnesota,MLB,Baseball
+04/24/23,San Francisco Giants,St. Louis Cardinals,San Francisco,California,MLB,Baseball
+04/24/23,Tampa Bay Rays,Houston Astros,Tampa,Florida,MLB,Baseball
+04/24/23,Toronto Blue Jays,Chicago White Sox,Toronto,Ontario,MLB,Baseball
+04/25/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+04/25/23,Arizona Diamondbacks,Kansas City Royals,Phoenix,Arizona,MLB,Baseball
+04/25/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+04/25/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+04/25/23,Chicago Cubs,San Diego Padres,Chicago,Illinois,MLB,Baseball
+04/25/23,Cincinnati Reds,Texas Rangers,Cincinnati,Ohio,MLB,Baseball
+04/25/23,Cleveland Guardians,Colorado Rockies,Cleveland,Ohio,MLB,Baseball
+04/25/23,Milwaukee Brewers,Detroit Tigers,Milwaukee,Wisconsin,MLB,Baseball
+04/25/23,Minnesota Twins,New York Yankees,Minneapolis,Minnesota,MLB,Baseball
+04/25/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+04/25/23,Philadelphia Phillies,Seattle Mariners,Philadelphia,Pennsylvania,MLB,Baseball
+04/25/23,Pittsburgh Pirates,Los Angeles Dodgers,Pittsburgh,Pennsylvania,MLB,Baseball
+04/25/23,San Francisco Giants,St. Louis Cardinals,San Francisco,California,MLB,Baseball
+04/25/23,Tampa Bay Rays,Houston Astros,Tampa,Florida,MLB,Baseball
+04/25/23,Toronto Blue Jays,Chicago White Sox,Toronto,Ontario,MLB,Baseball
+04/26/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+04/26/23,Arizona Diamondbacks,Kansas City Royals,Phoenix,Arizona,MLB,Baseball
+04/26/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+04/26/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+04/26/23,Chicago Cubs,San Diego Padres,Chicago,Illinois,MLB,Baseball
+04/26/23,Cincinnati Reds,Texas Rangers,Cincinnati,Ohio,MLB,Baseball
+04/26/23,Cleveland Guardians,Colorado Rockies,Cleveland,Ohio,MLB,Baseball
+04/26/23,Milwaukee Brewers,Detroit Tigers,Milwaukee,Wisconsin,MLB,Baseball
+04/26/23,Minnesota Twins,New York Yankees,Minneapolis,Minnesota,MLB,Baseball
+04/26/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+04/26/23,Philadelphia Phillies,Seattle Mariners,Philadelphia,Pennsylvania,MLB,Baseball
+04/26/23,Pittsburgh Pirates,Los Angeles Dodgers,Pittsburgh,Pennsylvania,MLB,Baseball
+04/26/23,San Francisco Giants,St. Louis Cardinals,San Francisco,California,MLB,Baseball
+04/26/23,Tampa Bay Rays,Houston Astros,Tampa,Florida,MLB,Baseball
+04/26/23,Toronto Blue Jays,Chicago White Sox,Toronto,Ontario,MLB,Baseball
+04/27/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+04/27/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+04/27/23,Chicago White Sox,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+04/27/23,Chicago Cubs,San Diego Padres,Chicago,Illinois,MLB,Baseball
+04/27/23,Detroit Tigers,Baltimore Orioles,Detroit,Michigan,MLB,Baseball
+04/27/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+04/27/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+04/27/23,Philadelphia Phillies,Seattle Mariners,Philadelphia,Pennsylvania,MLB,Baseball
+04/27/23,Pittsburgh Pirates,Los Angeles Dodgers,Pittsburgh,Pennsylvania,MLB,Baseball
+04/27/23,San Francisco Giants,St. Louis Cardinals,San Francisco,California,MLB,Baseball
+04/27/23,Texas Rangers,New York Yankees,Arlington,Texas,MLB,Baseball
+04/28/23,Boston Red Sox,Cleveland Guardians,Boston,Massachusetts,MLB,Baseball
+04/28/23,Chicago White Sox,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+04/28/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+04/28/23,Houston Astros,Philadelphia Phillies,Houston,Texas,MLB,Baseball
+04/28/23,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles,California,MLB,Baseball
+04/28/23,Miami Marlins,Chicago Cubs,Miami,Florida,MLB,Baseball
+04/28/23,Milwaukee Brewers,Los Angeles Angels,Milwaukee,Wisconsin,MLB,Baseball
+04/28/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+04/28/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+04/28/23,Oakland Athletics,Cincinnati Reds,Oakland,California,MLB,Baseball
+04/28/23,Texas Rangers,New York Yankees,Arlington,Texas,MLB,Baseball
+04/28/23,Toronto Blue Jays,Seattle Mariners,Toronto,Ontario,MLB,Baseball
+04/29/23,Boston Red Sox,Cleveland Guardians,Boston,Massachusetts,MLB,Baseball
+04/29/23,Chicago White Sox,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+04/29/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+04/29/23,Detroit Tigers,Baltimore Orioles,Detroit,Michigan,MLB,Baseball
+04/29/23,Detroit Tigers,Baltimore Orioles,Detroit,Michigan,MLB,Baseball
+04/29/23,Houston Astros,Philadelphia Phillies,Houston,Texas,MLB,Baseball
+04/29/23,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles,California,MLB,Baseball
+04/29/23,Miami Marlins,Chicago Cubs,Miami,Florida,MLB,Baseball
+04/29/23,Milwaukee Brewers,Los Angeles Angels,Milwaukee,Wisconsin,MLB,Baseball
+04/29/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+04/29/23,Oakland Athletics,Cincinnati Reds,Oakland,California,MLB,Baseball
+04/29/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+04/29/23,Texas Rangers,New York Yankees,Arlington,Texas,MLB,Baseball
+04/29/23,Toronto Blue Jays,Seattle Mariners,Toronto,Ontario,MLB,Baseball
+04/29/23,Washington Nationals,Pittsburgh Pirates,Washington D.C.,Washington D.C.,MLB,Baseball
+04/29/23,Washington Nationals,Pittsburgh Pirates,Washington D.C.,Washington D.C.,MLB,Baseball
+04/30/23,Boston Red Sox,Cleveland Guardians,Boston,Massachusetts,MLB,Baseball
+04/30/23,Chicago White Sox,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+04/30/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+04/30/23,Detroit Tigers,Baltimore Orioles,Detroit,Michigan,MLB,Baseball
+04/30/23,Houston Astros,Philadelphia Phillies,Houston,Texas,MLB,Baseball
+04/30/23,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles,California,MLB,Baseball
+04/30/23,Miami Marlins,Chicago Cubs,Miami,Florida,MLB,Baseball
+04/30/23,Milwaukee Brewers,Los Angeles Angels,Milwaukee,Wisconsin,MLB,Baseball
+04/30/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+04/30/23,Oakland Athletics,Cincinnati Reds,Oakland,California,MLB,Baseball
+04/30/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+04/30/23,Texas Rangers,New York Yankees,Arlington,Texas,MLB,Baseball
+04/30/23,Toronto Blue Jays,Seattle Mariners,Toronto,Ontario,MLB,Baseball
+04/30/23,Washington Nationals,Pittsburgh Pirates,Washington D.C.,Washington D.C.,MLB,Baseball
+05/01/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+05/01/23,Houston Astros,San Francisco Giants,Houston,Texas,MLB,Baseball
+05/01/23,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles,California,MLB,Baseball
+05/01/23,New York Yankees,Cleveland Guardians,New York,New York,MLB,Baseball
+05/01/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+05/01/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+05/01/23,San Diego Padres,Cincinnati Reds,San Diego,California,MLB,Baseball
+05/01/23,Washington Nationals,Chicago Cubs,Washington D.C.,Washington D.C.,MLB,Baseball
+05/02/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+05/02/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+05/02/23,Colorado Rockies,Milwaukee Brewers,Denver,Colorado,MLB,Baseball
+05/02/23,Houston Astros,San Francisco Giants,Houston,Texas,MLB,Baseball
+05/02/23,Kansas City Royals,Baltimore Orioles,Kansas City,Missouri,MLB,Baseball
+05/02/23,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles,California,MLB,Baseball
+05/02/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+05/02/23,New York Yankees,Cleveland Guardians,New York,New York,MLB,Baseball
+05/02/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+05/02/23,San Diego Padres,Cincinnati Reds,San Diego,California,MLB,Baseball
+05/02/23,St. Louis Cardinals,Los Angeles Angels,St. Louis,Missouri,MLB,Baseball
+05/02/23,Tampa Bay Rays,Pittsburgh Pirates,Tampa,Florida,MLB,Baseball
+05/02/23,Texas Rangers,Arizona Diamondbacks,Arlington,Texas,MLB,Baseball
+05/02/23,Washington Nationals,Chicago Cubs,Washington D.C.,Washington D.C.,MLB,Baseball
+05/03/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+05/03/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+05/03/23,Colorado Rockies,Milwaukee Brewers,Denver,Colorado,MLB,Baseball
+05/03/23,Detroit Tigers,New York Mets,Detroit,Michigan,MLB,Baseball
+05/03/23,Detroit Tigers,New York Mets,Detroit,Michigan,MLB,Baseball
+05/03/23,Houston Astros,San Francisco Giants,Houston,Texas,MLB,Baseball
+05/03/23,Kansas City Royals,Baltimore Orioles,Kansas City,Missouri,MLB,Baseball
+05/03/23,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles,California,MLB,Baseball
+05/03/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+05/03/23,New York Yankees,Cleveland Guardians,New York,New York,MLB,Baseball
+05/03/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+05/03/23,San Diego Padres,Cincinnati Reds,San Diego,California,MLB,Baseball
+05/03/23,St. Louis Cardinals,Los Angeles Angels,St. Louis,Missouri,MLB,Baseball
+05/03/23,Tampa Bay Rays,Pittsburgh Pirates,Tampa,Florida,MLB,Baseball
+05/03/23,Texas Rangers,Arizona Diamondbacks,Arlington,Texas,MLB,Baseball
+05/03/23,Washington Nationals,Chicago Cubs,Washington D.C.,Washington D.C.,MLB,Baseball
+05/04/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+05/04/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+05/04/23,Colorado Rockies,Milwaukee Brewers,Denver,Colorado,MLB,Baseball
+05/04/23,Detroit Tigers,New York Mets,Detroit,Michigan,MLB,Baseball
+05/04/23,Kansas City Royals,Baltimore Orioles,Kansas City,Missouri,MLB,Baseball
+05/04/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+05/04/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+05/04/23,St. Louis Cardinals,Los Angeles Angels,St. Louis,Missouri,MLB,Baseball
+05/04/23,Tampa Bay Rays,Pittsburgh Pirates,Tampa,Florida,MLB,Baseball
+05/04/23,Washington Nationals,Chicago Cubs,Washington D.C.,Washington D.C.,MLB,Baseball
+05/05/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+05/05/23,Arizona Diamondbacks,Washington Nationals,Phoenix,Arizona,MLB,Baseball
+05/05/23,Atlanta Braves,Baltimore Orioles,Atlanta,Georgia,MLB,Baseball
+05/05/23,Chicago Cubs,Miami Marlins,Chicago,Illinois,MLB,Baseball
+05/05/23,Cincinnati Reds,Chicago White Sox,Cincinnati,Ohio,MLB,Baseball
+05/05/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+05/05/23,Kansas City Royals,Oakland Athletics,Kansas City,Missouri,MLB,Baseball
+05/05/23,New York Mets,Colorado Rockies,New York,New York,MLB,Baseball
+05/05/23,Philadelphia Phillies,Boston Red Sox,Philadelphia,Pennsylvania,MLB,Baseball
+05/05/23,Pittsburgh Pirates,Toronto Blue Jays,Pittsburgh,Pennsylvania,MLB,Baseball
+05/05/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+05/05/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+05/05/23,San Francisco Giants,Milwaukee Brewers,San Francisco,California,MLB,Baseball
+05/05/23,St. Louis Cardinals,Detroit Tigers,St. Louis,Missouri,MLB,Baseball
+05/05/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+05/06/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+05/06/23,Arizona Diamondbacks,Washington Nationals,Phoenix,Arizona,MLB,Baseball
+05/06/23,Atlanta Braves,Baltimore Orioles,Atlanta,Georgia,MLB,Baseball
+05/06/23,Chicago Cubs,Miami Marlins,Chicago,Illinois,MLB,Baseball
+05/06/23,Cincinnati Reds,Chicago White Sox,Cincinnati,Ohio,MLB,Baseball
+05/06/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+05/06/23,Kansas City Royals,Oakland Athletics,Kansas City,Missouri,MLB,Baseball
+05/06/23,New York Mets,Colorado Rockies,New York,New York,MLB,Baseball
+05/06/23,Philadelphia Phillies,Boston Red Sox,Philadelphia,Pennsylvania,MLB,Baseball
+05/06/23,Pittsburgh Pirates,Toronto Blue Jays,Pittsburgh,Pennsylvania,MLB,Baseball
+05/06/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+05/06/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+05/06/23,San Francisco Giants,Milwaukee Brewers,San Francisco,California,MLB,Baseball
+05/06/23,St. Louis Cardinals,Detroit Tigers,St. Louis,Missouri,MLB,Baseball
+05/06/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+05/07/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+05/07/23,Arizona Diamondbacks,Washington Nationals,Phoenix,Arizona,MLB,Baseball
+05/07/23,Atlanta Braves,Baltimore Orioles,Atlanta,Georgia,MLB,Baseball
+05/07/23,Chicago Cubs,Miami Marlins,Chicago,Illinois,MLB,Baseball
+05/07/23,Cincinnati Reds,Chicago White Sox,Cincinnati,Ohio,MLB,Baseball
+05/07/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+05/07/23,Kansas City Royals,Oakland Athletics,Kansas City,Missouri,MLB,Baseball
+05/07/23,New York Mets,Colorado Rockies,New York,New York,MLB,Baseball
+05/07/23,Philadelphia Phillies,Boston Red Sox,Philadelphia,Pennsylvania,MLB,Baseball
+05/07/23,Pittsburgh Pirates,Toronto Blue Jays,Pittsburgh,Pennsylvania,MLB,Baseball
+05/07/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+05/07/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+05/07/23,San Francisco Giants,Milwaukee Brewers,San Francisco,California,MLB,Baseball
+05/07/23,St. Louis Cardinals,Detroit Tigers,St. Louis,Missouri,MLB,Baseball
+05/07/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+05/08/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+05/08/23,Arizona Diamondbacks,Miami Marlins,Phoenix,Arizona,MLB,Baseball
+05/08/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+05/08/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+05/08/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+05/08/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+05/08/23,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee,Wisconsin,MLB,Baseball
+05/08/23,New York Yankees,Oakland Athletics,New York,New York,MLB,Baseball
+05/08/23,Pittsburgh Pirates,Colorado Rockies,Pittsburgh,Pennsylvania,MLB,Baseball
+05/08/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+05/08/23,San Francisco Giants,Washington Nationals,San Francisco,California,MLB,Baseball
+05/09/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+05/09/23,Arizona Diamondbacks,Miami Marlins,Phoenix,Arizona,MLB,Baseball
+05/09/23,Atlanta Braves,Boston Red Sox,Atlanta,Georgia,MLB,Baseball
+05/09/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+05/09/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+05/09/23,Cincinnati Reds,New York Mets,Cincinnati,Ohio,MLB,Baseball
+05/09/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+05/09/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+05/09/23,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee,Wisconsin,MLB,Baseball
+05/09/23,Minnesota Twins,San Diego Padres,Minneapolis,Minnesota,MLB,Baseball
+05/09/23,New York Yankees,Oakland Athletics,New York,New York,MLB,Baseball
+05/09/23,Philadelphia Phillies,Toronto Blue Jays,Philadelphia,Pennsylvania,MLB,Baseball
+05/09/23,Pittsburgh Pirates,Colorado Rockies,Pittsburgh,Pennsylvania,MLB,Baseball
+05/09/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+05/09/23,San Francisco Giants,Washington Nationals,San Francisco,California,MLB,Baseball
+05/10/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+05/10/23,Arizona Diamondbacks,Miami Marlins,Phoenix,Arizona,MLB,Baseball
+05/10/23,Atlanta Braves,Boston Red Sox,Atlanta,Georgia,MLB,Baseball
+05/10/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+05/10/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+05/10/23,Cincinnati Reds,New York Mets,Cincinnati,Ohio,MLB,Baseball
+05/10/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+05/10/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+05/10/23,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee,Wisconsin,MLB,Baseball
+05/10/23,Minnesota Twins,San Diego Padres,Minneapolis,Minnesota,MLB,Baseball
+05/10/23,New York Yankees,Oakland Athletics,New York,New York,MLB,Baseball
+05/10/23,Philadelphia Phillies,Toronto Blue Jays,Philadelphia,Pennsylvania,MLB,Baseball
+05/10/23,Pittsburgh Pirates,Colorado Rockies,Pittsburgh,Pennsylvania,MLB,Baseball
+05/10/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+05/10/23,San Francisco Giants,Washington Nationals,San Francisco,California,MLB,Baseball
+05/11/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+05/11/23,Cincinnati Reds,New York Mets,Cincinnati,Ohio,MLB,Baseball
+05/11/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+05/11/23,Minnesota Twins,San Diego Padres,Minneapolis,Minnesota,MLB,Baseball
+05/11/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/11/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+05/12/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+05/12/23,Baltimore Orioles,Pittsburgh Pirates,Baltimore,Maryland,MLB,Baseball
+05/12/23,Boston Red Sox,St. Louis Cardinals,Boston,Massachusetts,MLB,Baseball
+05/12/23,Chicago White Sox,Houston Astros,Chicago,Illinois,MLB,Baseball
+05/12/23,Cleveland Guardians,Los Angeles Angels,Cleveland,Ohio,MLB,Baseball
+05/12/23,Colorado Rockies,Philadelphia Phillies,Denver,Colorado,MLB,Baseball
+05/12/23,Detroit Tigers,Seattle Mariners,Detroit,Michigan,MLB,Baseball
+05/12/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+05/12/23,Miami Marlins,Cincinnati Reds,Miami,Florida,MLB,Baseball
+05/12/23,Milwaukee Brewers,Kansas City Royals,Milwaukee,Wisconsin,MLB,Baseball
+05/12/23,Minnesota Twins,Chicago Cubs,Minneapolis,Minnesota,MLB,Baseball
+05/12/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/12/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+05/12/23,Toronto Blue Jays,Atlanta Braves,Toronto,Ontario,MLB,Baseball
+05/12/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+05/13/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+05/13/23,Baltimore Orioles,Pittsburgh Pirates,Baltimore,Maryland,MLB,Baseball
+05/13/23,Boston Red Sox,St. Louis Cardinals,Boston,Massachusetts,MLB,Baseball
+05/13/23,Chicago White Sox,Houston Astros,Chicago,Illinois,MLB,Baseball
+05/13/23,Cleveland Guardians,Los Angeles Angels,Cleveland,Ohio,MLB,Baseball
+05/13/23,Colorado Rockies,Philadelphia Phillies,Denver,Colorado,MLB,Baseball
+05/13/23,Detroit Tigers,Seattle Mariners,Detroit,Michigan,MLB,Baseball
+05/13/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+05/13/23,Miami Marlins,Cincinnati Reds,Miami,Florida,MLB,Baseball
+05/13/23,Milwaukee Brewers,Kansas City Royals,Milwaukee,Wisconsin,MLB,Baseball
+05/13/23,Minnesota Twins,Chicago Cubs,Minneapolis,Minnesota,MLB,Baseball
+05/13/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/13/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+05/13/23,Toronto Blue Jays,Atlanta Braves,Toronto,Ontario,MLB,Baseball
+05/13/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+05/14/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+05/14/23,Baltimore Orioles,Pittsburgh Pirates,Baltimore,Maryland,MLB,Baseball
+05/14/23,Boston Red Sox,St. Louis Cardinals,Boston,Massachusetts,MLB,Baseball
+05/14/23,Chicago White Sox,Houston Astros,Chicago,Illinois,MLB,Baseball
+05/14/23,Cleveland Guardians,Los Angeles Angels,Cleveland,Ohio,MLB,Baseball
+05/14/23,Colorado Rockies,Philadelphia Phillies,Denver,Colorado,MLB,Baseball
+05/14/23,Detroit Tigers,Seattle Mariners,Detroit,Michigan,MLB,Baseball
+05/14/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+05/14/23,Miami Marlins,Cincinnati Reds,Miami,Florida,MLB,Baseball
+05/14/23,Milwaukee Brewers,Kansas City Royals,Milwaukee,Wisconsin,MLB,Baseball
+05/14/23,Minnesota Twins,Chicago Cubs,Minneapolis,Minnesota,MLB,Baseball
+05/14/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/14/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+05/14/23,Toronto Blue Jays,Atlanta Braves,Toronto,Ontario,MLB,Baseball
+05/14/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+05/15/23,Baltimore Orioles,Los Angeles Angels,Baltimore,Maryland,MLB,Baseball
+05/15/23,Boston Red Sox,Seattle Mariners,Boston,Massachusetts,MLB,Baseball
+05/15/23,Colorado Rockies,Cincinnati Reds,Denver,Colorado,MLB,Baseball
+05/15/23,Houston Astros,Chicago Cubs,Houston,Texas,MLB,Baseball
+05/15/23,Los Angeles Dodgers,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/15/23,Oakland Athletics,Arizona Diamondbacks,Oakland,California,MLB,Baseball
+05/15/23,San Diego Padres,Kansas City Royals,San Diego,California,MLB,Baseball
+05/15/23,San Francisco Giants,Philadelphia Phillies,San Francisco,California,MLB,Baseball
+05/15/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+05/15/23,Texas Rangers,Atlanta Braves,Arlington,Texas,MLB,Baseball
+05/15/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+05/15/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+05/16/23,Baltimore Orioles,Los Angeles Angels,Baltimore,Maryland,MLB,Baseball
+05/16/23,Boston Red Sox,Seattle Mariners,Boston,Massachusetts,MLB,Baseball
+05/16/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+05/16/23,Colorado Rockies,Cincinnati Reds,Denver,Colorado,MLB,Baseball
+05/16/23,Detroit Tigers,Pittsburgh Pirates,Detroit,Michigan,MLB,Baseball
+05/16/23,Houston Astros,Chicago Cubs,Houston,Texas,MLB,Baseball
+05/16/23,Los Angeles Dodgers,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/16/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+05/16/23,New York Mets,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/16/23,Oakland Athletics,Arizona Diamondbacks,Oakland,California,MLB,Baseball
+05/16/23,San Diego Padres,Kansas City Royals,San Diego,California,MLB,Baseball
+05/16/23,San Francisco Giants,Philadelphia Phillies,San Francisco,California,MLB,Baseball
+05/16/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+05/16/23,Texas Rangers,Atlanta Braves,Arlington,Texas,MLB,Baseball
+05/16/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+05/17/23,Baltimore Orioles,Los Angeles Angels,Baltimore,Maryland,MLB,Baseball
+05/17/23,Boston Red Sox,Seattle Mariners,Boston,Massachusetts,MLB,Baseball
+05/17/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+05/17/23,Colorado Rockies,Cincinnati Reds,Denver,Colorado,MLB,Baseball
+05/17/23,Detroit Tigers,Pittsburgh Pirates,Detroit,Michigan,MLB,Baseball
+05/17/23,Houston Astros,Chicago Cubs,Houston,Texas,MLB,Baseball
+05/17/23,Los Angeles Dodgers,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/17/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+05/17/23,New York Mets,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/17/23,Oakland Athletics,Arizona Diamondbacks,Oakland,California,MLB,Baseball
+05/17/23,San Diego Padres,Kansas City Royals,San Diego,California,MLB,Baseball
+05/17/23,San Francisco Giants,Philadelphia Phillies,San Francisco,California,MLB,Baseball
+05/17/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+05/17/23,Texas Rangers,Atlanta Braves,Arlington,Texas,MLB,Baseball
+05/17/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+05/18/23,Baltimore Orioles,Los Angeles Angels,Baltimore,Maryland,MLB,Baseball
+05/18/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+05/18/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+05/18/23,New York Mets,Tampa Bay Rays,New York,New York,MLB,Baseball
+05/18/23,St. Louis Cardinals,Los Angeles Dodgers,St. Louis,Missouri,MLB,Baseball
+05/18/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+05/19/23,Los Angeles Angels,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/19/23,Atlanta Braves,Seattle Mariners,Atlanta,Georgia,MLB,Baseball
+05/19/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+05/19/23,Cincinnati Reds,New York Yankees,Cincinnati,Ohio,MLB,Baseball
+05/19/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+05/19/23,New York Mets,Cleveland Guardians,New York,New York,MLB,Baseball
+05/19/23,Philadelphia Phillies,Chicago Cubs,Philadelphia,Pennsylvania,MLB,Baseball
+05/19/23,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh,Pennsylvania,MLB,Baseball
+05/19/23,San Diego Padres,Boston Red Sox,San Diego,California,MLB,Baseball
+05/19/23,San Francisco Giants,Miami Marlins,San Francisco,California,MLB,Baseball
+05/19/23,St. Louis Cardinals,Los Angeles Dodgers,St. Louis,Missouri,MLB,Baseball
+05/19/23,Tampa Bay Rays,Milwaukee Brewers,Tampa,Florida,MLB,Baseball
+05/19/23,Texas Rangers,Colorado Rockies,Arlington,Texas,MLB,Baseball
+05/19/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+05/19/23,Washington Nationals,Detroit Tigers,Washington D.C.,Washington D.C.,MLB,Baseball
+05/20/23,Los Angeles Angels,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/20/23,Atlanta Braves,Seattle Mariners,Atlanta,Georgia,MLB,Baseball
+05/20/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+05/20/23,Cincinnati Reds,New York Yankees,Cincinnati,Ohio,MLB,Baseball
+05/20/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+05/20/23,Philadelphia Phillies,Chicago Cubs,Philadelphia,Pennsylvania,MLB,Baseball
+05/20/23,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh,Pennsylvania,MLB,Baseball
+05/20/23,San Diego Padres,Boston Red Sox,San Diego,California,MLB,Baseball
+05/20/23,San Francisco Giants,Miami Marlins,San Francisco,California,MLB,Baseball
+05/20/23,St. Louis Cardinals,Los Angeles Dodgers,St. Louis,Missouri,MLB,Baseball
+05/20/23,Tampa Bay Rays,Milwaukee Brewers,Tampa,Florida,MLB,Baseball
+05/20/23,Texas Rangers,Colorado Rockies,Arlington,Texas,MLB,Baseball
+05/20/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+05/20/23,Washington Nationals,Detroit Tigers,Washington D.C.,Washington D.C.,MLB,Baseball
+05/21/23,Los Angeles Angels,Minnesota Twins,Los Angeles,California,MLB,Baseball
+05/21/23,Atlanta Braves,Seattle Mariners,Atlanta,Georgia,MLB,Baseball
+05/21/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+05/21/23,Cincinnati Reds,New York Yankees,Cincinnati,Ohio,MLB,Baseball
+05/21/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+05/21/23,New York Mets,Cleveland Guardians,New York,New York,MLB,Baseball
+05/21/23,New York Mets,Cleveland Guardians,New York,New York,MLB,Baseball
+05/21/23,Philadelphia Phillies,Chicago Cubs,Philadelphia,Pennsylvania,MLB,Baseball
+05/21/23,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh,Pennsylvania,MLB,Baseball
+05/21/23,San Diego Padres,Boston Red Sox,San Diego,California,MLB,Baseball
+05/21/23,San Francisco Giants,Miami Marlins,San Francisco,California,MLB,Baseball
+05/21/23,St. Louis Cardinals,Los Angeles Dodgers,St. Louis,Missouri,MLB,Baseball
+05/21/23,Tampa Bay Rays,Milwaukee Brewers,Tampa,Florida,MLB,Baseball
+05/21/23,Texas Rangers,Colorado Rockies,Arlington,Texas,MLB,Baseball
+05/21/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+05/21/23,Washington Nationals,Detroit Tigers,Washington D.C.,Washington D.C.,MLB,Baseball
+05/22/23,Los Angeles Angels,Boston Red Sox,Los Angeles,California,MLB,Baseball
+05/22/23,Atlanta Braves,Los Angeles Dodgers,Atlanta,Georgia,MLB,Baseball
+05/22/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+05/22/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+05/22/23,Colorado Rockies,Miami Marlins,Denver,Colorado,MLB,Baseball
+05/22/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+05/22/23,Milwaukee Brewers,Houston Astros,Milwaukee,Wisconsin,MLB,Baseball
+05/22/23,Minnesota Twins,San Francisco Giants,Minneapolis,Minnesota,MLB,Baseball
+05/22/23,Philadelphia Phillies,Arizona Diamondbacks,Philadelphia,Pennsylvania,MLB,Baseball
+05/22/23,Pittsburgh Pirates,Texas Rangers,Pittsburgh,Pennsylvania,MLB,Baseball
+05/22/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+05/22/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+05/23/23,Los Angeles Angels,Boston Red Sox,Los Angeles,California,MLB,Baseball
+05/23/23,Atlanta Braves,Los Angeles Dodgers,Atlanta,Georgia,MLB,Baseball
+05/23/23,Chicago Cubs,New York Mets,Chicago,Illinois,MLB,Baseball
+05/23/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+05/23/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+05/23/23,Colorado Rockies,Miami Marlins,Denver,Colorado,MLB,Baseball
+05/23/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+05/23/23,Milwaukee Brewers,Houston Astros,Milwaukee,Wisconsin,MLB,Baseball
+05/23/23,Minnesota Twins,San Francisco Giants,Minneapolis,Minnesota,MLB,Baseball
+05/23/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+05/23/23,Philadelphia Phillies,Arizona Diamondbacks,Philadelphia,Pennsylvania,MLB,Baseball
+05/23/23,Pittsburgh Pirates,Texas Rangers,Pittsburgh,Pennsylvania,MLB,Baseball
+05/23/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+05/23/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+05/23/23,Washington Nationals,San Diego Padres,Washington D.C.,Washington D.C.,MLB,Baseball
+05/24/23,Los Angeles Angels,Boston Red Sox,Los Angeles,California,MLB,Baseball
+05/24/23,Atlanta Braves,Los Angeles Dodgers,Atlanta,Georgia,MLB,Baseball
+05/24/23,Chicago Cubs,New York Mets,Chicago,Illinois,MLB,Baseball
+05/24/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+05/24/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+05/24/23,Colorado Rockies,Miami Marlins,Denver,Colorado,MLB,Baseball
+05/24/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+05/24/23,Milwaukee Brewers,Houston Astros,Milwaukee,Wisconsin,MLB,Baseball
+05/24/23,Minnesota Twins,San Francisco Giants,Minneapolis,Minnesota,MLB,Baseball
+05/24/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+05/24/23,Philadelphia Phillies,Arizona Diamondbacks,Philadelphia,Pennsylvania,MLB,Baseball
+05/24/23,Pittsburgh Pirates,Texas Rangers,Pittsburgh,Pennsylvania,MLB,Baseball
+05/24/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+05/24/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+05/24/23,Washington Nationals,San Diego Padres,Washington D.C.,Washington D.C.,MLB,Baseball
+05/25/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+05/25/23,Chicago Cubs,New York Mets,Chicago,Illinois,MLB,Baseball
+05/25/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+05/25/23,Colorado Rockies,Miami Marlins,Denver,Colorado,MLB,Baseball
+05/25/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+05/25/23,Milwaukee Brewers,San Francisco Giants,Milwaukee,Wisconsin,MLB,Baseball
+05/25/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+05/25/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+05/25/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+05/25/23,Washington Nationals,San Diego Padres,Washington D.C.,Washington D.C.,MLB,Baseball
+05/26/23,Los Angeles Angels,Miami Marlins,Los Angeles,California,MLB,Baseball
+05/26/23,Arizona Diamondbacks,Boston Red Sox,Phoenix,Arizona,MLB,Baseball
+05/26/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+05/26/23,Baltimore Orioles,Texas Rangers,Baltimore,Maryland,MLB,Baseball
+05/26/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+05/26/23,Cleveland Guardians,St. Louis Cardinals,Cleveland,Ohio,MLB,Baseball
+05/26/23,Colorado Rockies,New York Mets,Denver,Colorado,MLB,Baseball
+05/26/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+05/26/23,Kansas City Royals,Washington Nationals,Kansas City,Missouri,MLB,Baseball
+05/26/23,Milwaukee Brewers,San Francisco Giants,Milwaukee,Wisconsin,MLB,Baseball
+05/26/23,Minnesota Twins,Toronto Blue Jays,Minneapolis,Minnesota,MLB,Baseball
+05/26/23,New York Yankees,San Diego Padres,New York,New York,MLB,Baseball
+05/26/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+05/26/23,Seattle Mariners,Pittsburgh Pirates,Seattle,Washington,MLB,Baseball
+05/26/23,Tampa Bay Rays,Los Angeles Dodgers,Tampa,Florida,MLB,Baseball
+05/27/23,Los Angeles Angels,Miami Marlins,Los Angeles,California,MLB,Baseball
+05/27/23,Arizona Diamondbacks,Boston Red Sox,Phoenix,Arizona,MLB,Baseball
+05/27/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+05/27/23,Baltimore Orioles,Texas Rangers,Baltimore,Maryland,MLB,Baseball
+05/27/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+05/27/23,Cleveland Guardians,St. Louis Cardinals,Cleveland,Ohio,MLB,Baseball
+05/27/23,Colorado Rockies,New York Mets,Denver,Colorado,MLB,Baseball
+05/27/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+05/27/23,Kansas City Royals,Washington Nationals,Kansas City,Missouri,MLB,Baseball
+05/27/23,Milwaukee Brewers,San Francisco Giants,Milwaukee,Wisconsin,MLB,Baseball
+05/27/23,Minnesota Twins,Toronto Blue Jays,Minneapolis,Minnesota,MLB,Baseball
+05/27/23,New York Yankees,San Diego Padres,New York,New York,MLB,Baseball
+05/27/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+05/27/23,Seattle Mariners,Pittsburgh Pirates,Seattle,Washington,MLB,Baseball
+05/27/23,Tampa Bay Rays,Los Angeles Dodgers,Tampa,Florida,MLB,Baseball
+05/28/23,Los Angeles Angels,Miami Marlins,Los Angeles,California,MLB,Baseball
+05/28/23,Arizona Diamondbacks,Boston Red Sox,Phoenix,Arizona,MLB,Baseball
+05/28/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+05/28/23,Baltimore Orioles,Texas Rangers,Baltimore,Maryland,MLB,Baseball
+05/28/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+05/28/23,Cleveland Guardians,St. Louis Cardinals,Cleveland,Ohio,MLB,Baseball
+05/28/23,Colorado Rockies,New York Mets,Denver,Colorado,MLB,Baseball
+05/28/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+05/28/23,Kansas City Royals,Washington Nationals,Kansas City,Missouri,MLB,Baseball
+05/28/23,Milwaukee Brewers,San Francisco Giants,Milwaukee,Wisconsin,MLB,Baseball
+05/28/23,Minnesota Twins,Toronto Blue Jays,Minneapolis,Minnesota,MLB,Baseball
+05/28/23,New York Yankees,San Diego Padres,New York,New York,MLB,Baseball
+05/28/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+05/28/23,Seattle Mariners,Pittsburgh Pirates,Seattle,Washington,MLB,Baseball
+05/28/23,Tampa Bay Rays,Los Angeles Dodgers,Tampa,Florida,MLB,Baseball
+05/29/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+05/29/23,Baltimore Orioles,Cleveland Guardians,Baltimore,Maryland,MLB,Baseball
+05/29/23,Chicago White Sox,Los Angeles Angels,Chicago,Illinois,MLB,Baseball
+05/29/23,Chicago Cubs,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+05/29/23,Detroit Tigers,Texas Rangers,Detroit,Michigan,MLB,Baseball
+05/29/23,Houston Astros,Minnesota Twins,Houston,Texas,MLB,Baseball
+05/29/23,Los Angeles Dodgers,Washington Nationals,Los Angeles,California,MLB,Baseball
+05/29/23,Oakland Athletics,Atlanta Braves,Oakland,California,MLB,Baseball
+05/29/23,Seattle Mariners,New York Yankees,Seattle,Washington,MLB,Baseball
+05/29/23,San Francisco Giants,Pittsburgh Pirates,San Francisco,California,MLB,Baseball
+05/29/23,St. Louis Cardinals,Kansas City Royals,St. Louis,Missouri,MLB,Baseball
+05/30/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+05/30/23,Baltimore Orioles,Cleveland Guardians,Baltimore,Maryland,MLB,Baseball
+05/30/23,Boston Red Sox,Cincinnati Reds,Boston,Massachusetts,MLB,Baseball
+05/30/23,Chicago White Sox,Los Angeles Angels,Chicago,Illinois,MLB,Baseball
+05/30/23,Chicago Cubs,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+05/30/23,Detroit Tigers,Texas Rangers,Detroit,Michigan,MLB,Baseball
+05/30/23,Houston Astros,Minnesota Twins,Houston,Texas,MLB,Baseball
+05/30/23,Los Angeles Dodgers,Washington Nationals,Los Angeles,California,MLB,Baseball
+05/30/23,Miami Marlins,San Diego Padres,Miami,Florida,MLB,Baseball
+05/30/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+05/30/23,Oakland Athletics,Atlanta Braves,Oakland,California,MLB,Baseball
+05/30/23,Seattle Mariners,New York Yankees,Seattle,Washington,MLB,Baseball
+05/30/23,San Francisco Giants,Pittsburgh Pirates,San Francisco,California,MLB,Baseball
+05/30/23,St. Louis Cardinals,Kansas City Royals,St. Louis,Missouri,MLB,Baseball
+05/30/23,Toronto Blue Jays,Milwaukee Brewers,Toronto,Ontario,MLB,Baseball
+05/31/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+05/31/23,Baltimore Orioles,Cleveland Guardians,Baltimore,Maryland,MLB,Baseball
+05/31/23,Boston Red Sox,Cincinnati Reds,Boston,Massachusetts,MLB,Baseball
+05/31/23,Chicago White Sox,Los Angeles Angels,Chicago,Illinois,MLB,Baseball
+05/31/23,Chicago Cubs,Tampa Bay Rays,Chicago,Illinois,MLB,Baseball
+05/31/23,Detroit Tigers,Texas Rangers,Detroit,Michigan,MLB,Baseball
+05/31/23,Houston Astros,Minnesota Twins,Houston,Texas,MLB,Baseball
+05/31/23,Los Angeles Dodgers,Washington Nationals,Los Angeles,California,MLB,Baseball
+05/31/23,Miami Marlins,San Diego Padres,Miami,Florida,MLB,Baseball
+05/31/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+05/31/23,Oakland Athletics,Atlanta Braves,Oakland,California,MLB,Baseball
+05/31/23,Seattle Mariners,New York Yankees,Seattle,Washington,MLB,Baseball
+05/31/23,San Francisco Giants,Pittsburgh Pirates,San Francisco,California,MLB,Baseball
+05/31/23,Toronto Blue Jays,Milwaukee Brewers,Toronto,Ontario,MLB,Baseball
+06/01/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+06/01/23,Boston Red Sox,Cincinnati Reds,Boston,Massachusetts,MLB,Baseball
+06/01/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+06/01/23,Miami Marlins,San Diego Padres,Miami,Florida,MLB,Baseball
+06/01/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+06/01/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+06/01/23,Toronto Blue Jays,Milwaukee Brewers,Toronto,Ontario,MLB,Baseball
+06/02/23,Arizona Diamondbacks,Atlanta Braves,Phoenix,Arizona,MLB,Baseball
+06/02/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+06/02/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+06/02/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+06/02/23,Kansas City Royals,Colorado Rockies,Kansas City,Missouri,MLB,Baseball
+06/02/23,Los Angeles Dodgers,New York Yankees,Los Angeles,California,MLB,Baseball
+06/02/23,Miami Marlins,Oakland Athletics,Miami,Florida,MLB,Baseball
+06/02/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+06/02/23,New York Mets,Toronto Blue Jays,New York,New York,MLB,Baseball
+06/02/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+06/02/23,San Diego Padres,Chicago Cubs,San Diego,California,MLB,Baseball
+06/02/23,San Francisco Giants,Baltimore Orioles,San Francisco,California,MLB,Baseball
+06/02/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+06/02/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+06/03/23,Arizona Diamondbacks,Atlanta Braves,Phoenix,Arizona,MLB,Baseball
+06/03/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+06/03/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+06/03/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+06/03/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+06/03/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+06/03/23,Kansas City Royals,Colorado Rockies,Kansas City,Missouri,MLB,Baseball
+06/03/23,Los Angeles Dodgers,New York Yankees,Los Angeles,California,MLB,Baseball
+06/03/23,Miami Marlins,Oakland Athletics,Miami,Florida,MLB,Baseball
+06/03/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+06/03/23,New York Mets,Toronto Blue Jays,New York,New York,MLB,Baseball
+06/03/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+06/03/23,San Diego Padres,Chicago Cubs,San Diego,California,MLB,Baseball
+06/03/23,San Francisco Giants,Baltimore Orioles,San Francisco,California,MLB,Baseball
+06/03/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+06/03/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+06/04/23,Arizona Diamondbacks,Atlanta Braves,Phoenix,Arizona,MLB,Baseball
+06/04/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+06/04/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+06/04/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+06/04/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+06/04/23,Kansas City Royals,Colorado Rockies,Kansas City,Missouri,MLB,Baseball
+06/04/23,Los Angeles Dodgers,New York Yankees,Los Angeles,California,MLB,Baseball
+06/04/23,Miami Marlins,Oakland Athletics,Miami,Florida,MLB,Baseball
+06/04/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+06/04/23,New York Mets,Toronto Blue Jays,New York,New York,MLB,Baseball
+06/04/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+06/04/23,San Diego Padres,Chicago Cubs,San Diego,California,MLB,Baseball
+06/04/23,San Francisco Giants,Baltimore Orioles,San Francisco,California,MLB,Baseball
+06/04/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+06/04/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+06/05/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+06/05/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+06/05/23,Miami Marlins,Kansas City Royals,Miami,Florida,MLB,Baseball
+06/05/23,Philadelphia Phillies,Detroit Tigers,Philadelphia,Pennsylvania,MLB,Baseball
+06/05/23,Pittsburgh Pirates,Oakland Athletics,Pittsburgh,Pennsylvania,MLB,Baseball
+06/05/23,San Diego Padres,Chicago Cubs,San Diego,California,MLB,Baseball
+06/05/23,Texas Rangers,St. Louis Cardinals,Arlington,Texas,MLB,Baseball
+06/05/23,Toronto Blue Jays,Houston Astros,Toronto,Ontario,MLB,Baseball
+06/06/23,Los Angeles Angels,Chicago Cubs,Los Angeles,California,MLB,Baseball
+06/06/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+06/06/23,Cincinnati Reds,Los Angeles Dodgers,Cincinnati,Ohio,MLB,Baseball
+06/06/23,Cleveland Guardians,Boston Red Sox,Cleveland,Ohio,MLB,Baseball
+06/06/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+06/06/23,Miami Marlins,Kansas City Royals,Miami,Florida,MLB,Baseball
+06/06/23,Milwaukee Brewers,Baltimore Orioles,Milwaukee,Wisconsin,MLB,Baseball
+06/06/23,New York Yankees,Chicago White Sox,New York,New York,MLB,Baseball
+06/06/23,Philadelphia Phillies,Detroit Tigers,Philadelphia,Pennsylvania,MLB,Baseball
+06/06/23,Pittsburgh Pirates,Oakland Athletics,Pittsburgh,Pennsylvania,MLB,Baseball
+06/06/23,San Diego Padres,Seattle Mariners,San Diego,California,MLB,Baseball
+06/06/23,Tampa Bay Rays,Minnesota Twins,Tampa,Florida,MLB,Baseball
+06/06/23,Texas Rangers,St. Louis Cardinals,Arlington,Texas,MLB,Baseball
+06/06/23,Toronto Blue Jays,Houston Astros,Toronto,Ontario,MLB,Baseball
+06/06/23,Washington Nationals,Arizona Diamondbacks,Washington D.C.,Washington D.C.,MLB,Baseball
+06/07/23,Los Angeles Angels,Chicago Cubs,Los Angeles,California,MLB,Baseball
+06/07/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+06/07/23,Cincinnati Reds,Los Angeles Dodgers,Cincinnati,Ohio,MLB,Baseball
+06/07/23,Cleveland Guardians,Boston Red Sox,Cleveland,Ohio,MLB,Baseball
+06/07/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+06/07/23,Miami Marlins,Kansas City Royals,Miami,Florida,MLB,Baseball
+06/07/23,Milwaukee Brewers,Baltimore Orioles,Milwaukee,Wisconsin,MLB,Baseball
+06/07/23,Pittsburgh Pirates,Oakland Athletics,Pittsburgh,Pennsylvania,MLB,Baseball
+06/07/23,San Diego Padres,Seattle Mariners,San Diego,California,MLB,Baseball
+06/07/23,Tampa Bay Rays,Minnesota Twins,Tampa,Florida,MLB,Baseball
+06/07/23,Texas Rangers,St. Louis Cardinals,Arlington,Texas,MLB,Baseball
+06/07/23,Toronto Blue Jays,Houston Astros,Toronto,Ontario,MLB,Baseball
+06/07/23,Washington Nationals,Arizona Diamondbacks,Washington D.C.,Washington D.C.,MLB,Baseball
+06/08/23,Los Angeles Angels,Chicago Cubs,Los Angeles,California,MLB,Baseball
+06/08/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+06/08/23,Cincinnati Reds,Los Angeles Dodgers,Cincinnati,Ohio,MLB,Baseball
+06/08/23,Cleveland Guardians,Boston Red Sox,Cleveland,Ohio,MLB,Baseball
+06/08/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+06/08/23,Milwaukee Brewers,Baltimore Orioles,Milwaukee,Wisconsin,MLB,Baseball
+06/08/23,New York Yankees,Chicago White Sox,New York,New York,MLB,Baseball
+06/08/23,New York Yankees,Chicago White Sox,New York,New York,MLB,Baseball
+06/08/23,Philadelphia Phillies,Detroit Tigers,Philadelphia,Pennsylvania,MLB,Baseball
+06/08/23,Tampa Bay Rays,Minnesota Twins,Tampa,Florida,MLB,Baseball
+06/08/23,Toronto Blue Jays,Houston Astros,Toronto,Ontario,MLB,Baseball
+06/09/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+06/09/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+06/09/23,Baltimore Orioles,Kansas City Royals,Baltimore,Maryland,MLB,Baseball
+06/09/23,Chicago White Sox,Miami Marlins,Chicago,Illinois,MLB,Baseball
+06/09/23,Cleveland Guardians,Houston Astros,Cleveland,Ohio,MLB,Baseball
+06/09/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+06/09/23,Detroit Tigers,Arizona Diamondbacks,Detroit,Michigan,MLB,Baseball
+06/09/23,Milwaukee Brewers,Oakland Athletics,Milwaukee,Wisconsin,MLB,Baseball
+06/09/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+06/09/23,Philadelphia Phillies,Los Angeles Dodgers,Philadelphia,Pennsylvania,MLB,Baseball
+06/09/23,Pittsburgh Pirates,New York Mets,Pittsburgh,Pennsylvania,MLB,Baseball
+06/09/23,San Francisco Giants,Chicago Cubs,San Francisco,California,MLB,Baseball
+06/09/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
+06/09/23,Tampa Bay Rays,Texas Rangers,Tampa,Florida,MLB,Baseball
+06/09/23,Toronto Blue Jays,Minnesota Twins,Toronto,Ontario,MLB,Baseball
+06/10/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+06/10/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+06/10/23,Baltimore Orioles,Kansas City Royals,Baltimore,Maryland,MLB,Baseball
+06/10/23,Chicago White Sox,Miami Marlins,Chicago,Illinois,MLB,Baseball
+06/10/23,Cleveland Guardians,Houston Astros,Cleveland,Ohio,MLB,Baseball
+06/10/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+06/10/23,Detroit Tigers,Arizona Diamondbacks,Detroit,Michigan,MLB,Baseball
+06/10/23,Milwaukee Brewers,Oakland Athletics,Milwaukee,Wisconsin,MLB,Baseball
+06/10/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+06/10/23,Philadelphia Phillies,Los Angeles Dodgers,Philadelphia,Pennsylvania,MLB,Baseball
+06/10/23,Pittsburgh Pirates,New York Mets,Pittsburgh,Pennsylvania,MLB,Baseball
+06/10/23,San Francisco Giants,Chicago Cubs,San Francisco,California,MLB,Baseball
+06/10/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
+06/10/23,Tampa Bay Rays,Texas Rangers,Tampa,Florida,MLB,Baseball
+06/10/23,Toronto Blue Jays,Minnesota Twins,Toronto,Ontario,MLB,Baseball
+06/11/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+06/11/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+06/11/23,Baltimore Orioles,Kansas City Royals,Baltimore,Maryland,MLB,Baseball
+06/11/23,Chicago White Sox,Miami Marlins,Chicago,Illinois,MLB,Baseball
+06/11/23,Cleveland Guardians,Houston Astros,Cleveland,Ohio,MLB,Baseball
+06/11/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+06/11/23,Detroit Tigers,Arizona Diamondbacks,Detroit,Michigan,MLB,Baseball
+06/11/23,Milwaukee Brewers,Oakland Athletics,Milwaukee,Wisconsin,MLB,Baseball
+06/11/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+06/11/23,Philadelphia Phillies,Los Angeles Dodgers,Philadelphia,Pennsylvania,MLB,Baseball
+06/11/23,Pittsburgh Pirates,New York Mets,Pittsburgh,Pennsylvania,MLB,Baseball
+06/11/23,San Francisco Giants,Chicago Cubs,San Francisco,California,MLB,Baseball
+06/11/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
+06/11/23,Tampa Bay Rays,Texas Rangers,Tampa,Florida,MLB,Baseball
+06/11/23,Toronto Blue Jays,Minnesota Twins,Toronto,Ontario,MLB,Baseball
+06/12/23,Arizona Diamondbacks,Philadelphia Phillies,Phoenix,Arizona,MLB,Baseball
+06/12/23,Boston Red Sox,Colorado Rockies,Boston,Massachusetts,MLB,Baseball
+06/12/23,Detroit Tigers,Atlanta Braves,Detroit,Michigan,MLB,Baseball
+06/12/23,Kansas City Royals,Cincinnati Reds,Kansas City,Missouri,MLB,Baseball
+06/12/23,Oakland Athletics,Tampa Bay Rays,Oakland,California,MLB,Baseball
+06/12/23,Seattle Mariners,Miami Marlins,Seattle,Washington,MLB,Baseball
+06/12/23,St. Louis Cardinals,San Francisco Giants,St. Louis,Missouri,MLB,Baseball
+06/12/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+06/13/23,Arizona Diamondbacks,Philadelphia Phillies,Phoenix,Arizona,MLB,Baseball
+06/13/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+06/13/23,Boston Red Sox,Colorado Rockies,Boston,Massachusetts,MLB,Baseball
+06/13/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+06/13/23,Houston Astros,Washington Nationals,Houston,Texas,MLB,Baseball
+06/13/23,Kansas City Royals,Cincinnati Reds,Kansas City,Missouri,MLB,Baseball
+06/13/23,Los Angeles Dodgers,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/13/23,Minnesota Twins,Milwaukee Brewers,Minneapolis,Minnesota,MLB,Baseball
+06/13/23,New York Mets,New York Yankees,New York,New York,MLB,Baseball
+06/13/23,Oakland Athletics,Tampa Bay Rays,Oakland,California,MLB,Baseball
+06/13/23,San Diego Padres,Cleveland Guardians,San Diego,California,MLB,Baseball
+06/13/23,Seattle Mariners,Miami Marlins,Seattle,Washington,MLB,Baseball
+06/13/23,St. Louis Cardinals,San Francisco Giants,St. Louis,Missouri,MLB,Baseball
+06/13/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+06/14/23,Arizona Diamondbacks,Philadelphia Phillies,Phoenix,Arizona,MLB,Baseball
+06/14/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+06/14/23,Boston Red Sox,Colorado Rockies,Boston,Massachusetts,MLB,Baseball
+06/14/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+06/14/23,Detroit Tigers,Atlanta Braves,Detroit,Michigan,MLB,Baseball
+06/14/23,Detroit Tigers,Atlanta Braves,Detroit,Michigan,MLB,Baseball
+06/14/23,Houston Astros,Washington Nationals,Houston,Texas,MLB,Baseball
+06/14/23,Kansas City Royals,Cincinnati Reds,Kansas City,Missouri,MLB,Baseball
+06/14/23,Los Angeles Dodgers,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/14/23,Minnesota Twins,Milwaukee Brewers,Minneapolis,Minnesota,MLB,Baseball
+06/14/23,New York Mets,New York Yankees,New York,New York,MLB,Baseball
+06/14/23,Oakland Athletics,Tampa Bay Rays,Oakland,California,MLB,Baseball
+06/14/23,San Diego Padres,Cleveland Guardians,San Diego,California,MLB,Baseball
+06/14/23,Seattle Mariners,Miami Marlins,Seattle,Washington,MLB,Baseball
+06/14/23,St. Louis Cardinals,San Francisco Giants,St. Louis,Missouri,MLB,Baseball
+06/14/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+06/15/23,Arizona Diamondbacks,Philadelphia Phillies,Phoenix,Arizona,MLB,Baseball
+06/15/23,Atlanta Braves,Colorado Rockies,Atlanta,Georgia,MLB,Baseball
+06/15/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+06/15/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+06/15/23,Houston Astros,Washington Nationals,Houston,Texas,MLB,Baseball
+06/15/23,Los Angeles Dodgers,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/15/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+06/15/23,Oakland Athletics,Tampa Bay Rays,Oakland,California,MLB,Baseball
+06/15/23,San Diego Padres,Cleveland Guardians,San Diego,California,MLB,Baseball
+06/15/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+06/16/23,Arizona Diamondbacks,Cleveland Guardians,Phoenix,Arizona,MLB,Baseball
+06/16/23,Atlanta Braves,Colorado Rockies,Atlanta,Georgia,MLB,Baseball
+06/16/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+06/16/23,Chicago Cubs,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+06/16/23,Houston Astros,Cincinnati Reds,Houston,Texas,MLB,Baseball
+06/16/23,Kansas City Royals,Los Angeles Angels,Kansas City,Missouri,MLB,Baseball
+06/16/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+06/16/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+06/16/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+06/16/23,New York Mets,St. Louis Cardinals,New York,New York,MLB,Baseball
+06/16/23,Oakland Athletics,Philadelphia Phillies,Oakland,California,MLB,Baseball
+06/16/23,San Diego Padres,Tampa Bay Rays,San Diego,California,MLB,Baseball
+06/16/23,Seattle Mariners,Chicago White Sox,Seattle,Washington,MLB,Baseball
+06/16/23,Texas Rangers,Toronto Blue Jays,Arlington,Texas,MLB,Baseball
+06/16/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+06/17/23,Arizona Diamondbacks,Cleveland Guardians,Phoenix,Arizona,MLB,Baseball
+06/17/23,Atlanta Braves,Colorado Rockies,Atlanta,Georgia,MLB,Baseball
+06/17/23,Chicago Cubs,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+06/17/23,Houston Astros,Cincinnati Reds,Houston,Texas,MLB,Baseball
+06/17/23,Kansas City Royals,Los Angeles Angels,Kansas City,Missouri,MLB,Baseball
+06/17/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+06/17/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+06/17/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+06/17/23,New York Mets,St. Louis Cardinals,New York,New York,MLB,Baseball
+06/17/23,Oakland Athletics,Philadelphia Phillies,Oakland,California,MLB,Baseball
+06/17/23,San Diego Padres,Tampa Bay Rays,San Diego,California,MLB,Baseball
+06/17/23,Seattle Mariners,Chicago White Sox,Seattle,Washington,MLB,Baseball
+06/17/23,Texas Rangers,Toronto Blue Jays,Arlington,Texas,MLB,Baseball
+06/17/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+06/18/23,Arizona Diamondbacks,Cleveland Guardians,Phoenix,Arizona,MLB,Baseball
+06/18/23,Atlanta Braves,Colorado Rockies,Atlanta,Georgia,MLB,Baseball
+06/18/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+06/18/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+06/18/23,Chicago Cubs,Baltimore Orioles,Chicago,Illinois,MLB,Baseball
+06/18/23,Houston Astros,Cincinnati Reds,Houston,Texas,MLB,Baseball
+06/18/23,Kansas City Royals,Los Angeles Angels,Kansas City,Missouri,MLB,Baseball
+06/18/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+06/18/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+06/18/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+06/18/23,New York Mets,St. Louis Cardinals,New York,New York,MLB,Baseball
+06/18/23,Oakland Athletics,Philadelphia Phillies,Oakland,California,MLB,Baseball
+06/18/23,San Diego Padres,Tampa Bay Rays,San Diego,California,MLB,Baseball
+06/18/23,Seattle Mariners,Chicago White Sox,Seattle,Washington,MLB,Baseball
+06/18/23,Texas Rangers,Toronto Blue Jays,Arlington,Texas,MLB,Baseball
+06/18/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+06/19/23,Chicago White Sox,Texas Rangers,Chicago,Illinois,MLB,Baseball
+06/19/23,Cincinnati Reds,Colorado Rockies,Cincinnati,Ohio,MLB,Baseball
+06/19/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+06/19/23,Houston Astros,New York Mets,Houston,Texas,MLB,Baseball
+06/19/23,Miami Marlins,Toronto Blue Jays,Miami,Florida,MLB,Baseball
+06/19/23,Milwaukee Brewers,Arizona Diamondbacks,Milwaukee,Wisconsin,MLB,Baseball
+06/19/23,Minnesota Twins,Boston Red Sox,Minneapolis,Minnesota,MLB,Baseball
+06/19/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+06/19/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+06/19/23,Washington Nationals,St. Louis Cardinals,Washington D.C.,Washington D.C.,MLB,Baseball
+06/20/23,Los Angeles Angels,Los Angeles Dodgers,Los Angeles,California,MLB,Baseball
+06/20/23,Chicago White Sox,Texas Rangers,Chicago,Illinois,MLB,Baseball
+06/20/23,Cincinnati Reds,Colorado Rockies,Cincinnati,Ohio,MLB,Baseball
+06/20/23,Cleveland Guardians,Oakland Athletics,Cleveland,Ohio,MLB,Baseball
+06/20/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+06/20/23,Houston Astros,New York Mets,Houston,Texas,MLB,Baseball
+06/20/23,Miami Marlins,Toronto Blue Jays,Miami,Florida,MLB,Baseball
+06/20/23,Milwaukee Brewers,Arizona Diamondbacks,Milwaukee,Wisconsin,MLB,Baseball
+06/20/23,Minnesota Twins,Boston Red Sox,Minneapolis,Minnesota,MLB,Baseball
+06/20/23,New York Yankees,Seattle Mariners,New York,New York,MLB,Baseball
+06/20/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+06/20/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+06/20/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+06/20/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+06/20/23,Washington Nationals,St. Louis Cardinals,Washington D.C.,Washington D.C.,MLB,Baseball
+06/21/23,Los Angeles Angels,Los Angeles Dodgers,Los Angeles,California,MLB,Baseball
+06/21/23,Chicago White Sox,Texas Rangers,Chicago,Illinois,MLB,Baseball
+06/21/23,Cincinnati Reds,Colorado Rockies,Cincinnati,Ohio,MLB,Baseball
+06/21/23,Cleveland Guardians,Oakland Athletics,Cleveland,Ohio,MLB,Baseball
+06/21/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+06/21/23,Houston Astros,New York Mets,Houston,Texas,MLB,Baseball
+06/21/23,Miami Marlins,Toronto Blue Jays,Miami,Florida,MLB,Baseball
+06/21/23,Milwaukee Brewers,Arizona Diamondbacks,Milwaukee,Wisconsin,MLB,Baseball
+06/21/23,Minnesota Twins,Boston Red Sox,Minneapolis,Minnesota,MLB,Baseball
+06/21/23,New York Yankees,Seattle Mariners,New York,New York,MLB,Baseball
+06/21/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+06/21/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+06/21/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+06/21/23,Washington Nationals,St. Louis Cardinals,Washington D.C.,Washington D.C.,MLB,Baseball
+06/22/23,Cleveland Guardians,Oakland Athletics,Cleveland,Ohio,MLB,Baseball
+06/22/23,Miami Marlins,Pittsburgh Pirates,Miami,Florida,MLB,Baseball
+06/22/23,Minnesota Twins,Boston Red Sox,Minneapolis,Minnesota,MLB,Baseball
+06/22/23,New York Yankees,Seattle Mariners,New York,New York,MLB,Baseball
+06/22/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+06/22/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+06/22/23,Tampa Bay Rays,Kansas City Royals,Tampa,Florida,MLB,Baseball
+06/22/23,Washington Nationals,Arizona Diamondbacks,Washington D.C.,Washington D.C.,MLB,Baseball
+06/23/23,Baltimore Orioles,Seattle Mariners,Baltimore,Maryland,MLB,Baseball
+06/23/23,Chicago White Sox,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+06/23/23,Cincinnati Reds,Atlanta Braves,Cincinnati,Ohio,MLB,Baseball
+06/23/23,Cleveland Guardians,Milwaukee Brewers,Cleveland,Ohio,MLB,Baseball
+06/23/23,Colorado Rockies,Los Angeles Angels,Denver,Colorado,MLB,Baseball
+06/23/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+06/23/23,Los Angeles Dodgers,Houston Astros,Los Angeles,California,MLB,Baseball
+06/23/23,Miami Marlins,Pittsburgh Pirates,Miami,Florida,MLB,Baseball
+06/23/23,New York Yankees,Texas Rangers,New York,New York,MLB,Baseball
+06/23/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+06/23/23,San Diego Padres,Washington Nationals,San Diego,California,MLB,Baseball
+06/23/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+06/23/23,Tampa Bay Rays,Kansas City Royals,Tampa,Florida,MLB,Baseball
+06/23/23,Toronto Blue Jays,Oakland Athletics,Toronto,Ontario,MLB,Baseball
+06/24/23,Baltimore Orioles,Seattle Mariners,Baltimore,Maryland,MLB,Baseball
+06/24/23,Chicago White Sox,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+06/24/23,Cincinnati Reds,Atlanta Braves,Cincinnati,Ohio,MLB,Baseball
+06/24/23,Cleveland Guardians,Milwaukee Brewers,Cleveland,Ohio,MLB,Baseball
+06/24/23,Colorado Rockies,Los Angeles Angels,Denver,Colorado,MLB,Baseball
+06/24/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+06/24/23,Los Angeles Dodgers,Houston Astros,Los Angeles,California,MLB,Baseball
+06/24/23,Miami Marlins,Pittsburgh Pirates,Miami,Florida,MLB,Baseball
+06/24/23,New York Yankees,Texas Rangers,New York,New York,MLB,Baseball
+06/24/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+06/24/23,San Diego Padres,Washington Nationals,San Diego,California,MLB,Baseball
+06/24/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+06/24/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+06/24/23,Tampa Bay Rays,Kansas City Royals,Tampa,Florida,MLB,Baseball
+06/24/23,Toronto Blue Jays,Oakland Athletics,Toronto,Ontario,MLB,Baseball
+06/25/23,Baltimore Orioles,Seattle Mariners,Baltimore,Maryland,MLB,Baseball
+06/25/23,Chicago White Sox,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+06/25/23,Cincinnati Reds,Atlanta Braves,Cincinnati,Ohio,MLB,Baseball
+06/25/23,Cleveland Guardians,Milwaukee Brewers,Cleveland,Ohio,MLB,Baseball
+06/25/23,Colorado Rockies,Los Angeles Angels,Denver,Colorado,MLB,Baseball
+06/25/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+06/25/23,Los Angeles Dodgers,Houston Astros,Los Angeles,California,MLB,Baseball
+06/25/23,Miami Marlins,Pittsburgh Pirates,Miami,Florida,MLB,Baseball
+06/25/23,New York Yankees,Texas Rangers,New York,New York,MLB,Baseball
+06/25/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+06/25/23,San Diego Padres,Washington Nationals,San Diego,California,MLB,Baseball
+06/25/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+06/25/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+06/25/23,Tampa Bay Rays,Kansas City Royals,Tampa,Florida,MLB,Baseball
+06/25/23,Toronto Blue Jays,Oakland Athletics,Toronto,Ontario,MLB,Baseball
+06/26/23,Los Angeles Angels,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/26/23,Atlanta Braves,Minnesota Twins,Atlanta,Georgia,MLB,Baseball
+06/26/23,Baltimore Orioles,Cincinnati Reds,Baltimore,Maryland,MLB,Baseball
+06/26/23,New York Mets,Milwaukee Brewers,New York,New York,MLB,Baseball
+06/26/23,Seattle Mariners,Washington Nationals,Seattle,Washington,MLB,Baseball
+06/26/23,Texas Rangers,Detroit Tigers,Arlington,Texas,MLB,Baseball
+06/27/23,Los Angeles Angels,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/27/23,Arizona Diamondbacks,Tampa Bay Rays,Phoenix,Arizona,MLB,Baseball
+06/27/23,Atlanta Braves,Minnesota Twins,Atlanta,Georgia,MLB,Baseball
+06/27/23,Baltimore Orioles,Cincinnati Reds,Baltimore,Maryland,MLB,Baseball
+06/27/23,Boston Red Sox,Miami Marlins,Boston,Massachusetts,MLB,Baseball
+06/27/23,Chicago Cubs,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+06/27/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+06/27/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+06/27/23,New York Mets,Milwaukee Brewers,New York,New York,MLB,Baseball
+06/27/23,Oakland Athletics,New York Yankees,Oakland,California,MLB,Baseball
+06/27/23,Pittsburgh Pirates,San Diego Padres,Pittsburgh,Pennsylvania,MLB,Baseball
+06/27/23,Seattle Mariners,Washington Nationals,Seattle,Washington,MLB,Baseball
+06/27/23,St. Louis Cardinals,Houston Astros,St. Louis,Missouri,MLB,Baseball
+06/27/23,Texas Rangers,Detroit Tigers,Arlington,Texas,MLB,Baseball
+06/27/23,Toronto Blue Jays,San Francisco Giants,Toronto,Ontario,MLB,Baseball
+06/28/23,Los Angeles Angels,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/28/23,Arizona Diamondbacks,Tampa Bay Rays,Phoenix,Arizona,MLB,Baseball
+06/28/23,Atlanta Braves,Minnesota Twins,Atlanta,Georgia,MLB,Baseball
+06/28/23,Baltimore Orioles,Cincinnati Reds,Baltimore,Maryland,MLB,Baseball
+06/28/23,Boston Red Sox,Miami Marlins,Boston,Massachusetts,MLB,Baseball
+06/28/23,Chicago Cubs,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+06/28/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+06/28/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+06/28/23,New York Mets,Milwaukee Brewers,New York,New York,MLB,Baseball
+06/28/23,Oakland Athletics,New York Yankees,Oakland,California,MLB,Baseball
+06/28/23,Pittsburgh Pirates,San Diego Padres,Pittsburgh,Pennsylvania,MLB,Baseball
+06/28/23,Seattle Mariners,Washington Nationals,Seattle,Washington,MLB,Baseball
+06/28/23,St. Louis Cardinals,Houston Astros,St. Louis,Missouri,MLB,Baseball
+06/28/23,Texas Rangers,Detroit Tigers,Arlington,Texas,MLB,Baseball
+06/28/23,Toronto Blue Jays,San Francisco Giants,Toronto,Ontario,MLB,Baseball
+06/29/23,Los Angeles Angels,Chicago White Sox,Los Angeles,California,MLB,Baseball
+06/29/23,Arizona Diamondbacks,Tampa Bay Rays,Phoenix,Arizona,MLB,Baseball
+06/29/23,Boston Red Sox,Miami Marlins,Boston,Massachusetts,MLB,Baseball
+06/29/23,Chicago Cubs,Philadelphia Phillies,Chicago,Illinois,MLB,Baseball
+06/29/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+06/29/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+06/29/23,New York Mets,Milwaukee Brewers,New York,New York,MLB,Baseball
+06/29/23,Oakland Athletics,New York Yankees,Oakland,California,MLB,Baseball
+06/29/23,Pittsburgh Pirates,San Diego Padres,Pittsburgh,Pennsylvania,MLB,Baseball
+06/29/23,St. Louis Cardinals,Houston Astros,St. Louis,Missouri,MLB,Baseball
+06/29/23,Texas Rangers,Detroit Tigers,Arlington,Texas,MLB,Baseball
+06/29/23,Toronto Blue Jays,San Francisco Giants,Toronto,Ontario,MLB,Baseball
+06/30/23,Los Angeles Angels,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+06/30/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+06/30/23,Baltimore Orioles,Minnesota Twins,Baltimore,Maryland,MLB,Baseball
+06/30/23,Chicago Cubs,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+06/30/23,Cincinnati Reds,San Diego Padres,Cincinnati,Ohio,MLB,Baseball
+06/30/23,Colorado Rockies,Detroit Tigers,Denver,Colorado,MLB,Baseball
+06/30/23,Kansas City Royals,Los Angeles Dodgers,Kansas City,Missouri,MLB,Baseball
+06/30/23,New York Mets,San Francisco Giants,New York,New York,MLB,Baseball
+06/30/23,Oakland Athletics,Chicago White Sox,Oakland,California,MLB,Baseball
+06/30/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+06/30/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+06/30/23,Seattle Mariners,Tampa Bay Rays,Seattle,Washington,MLB,Baseball
+06/30/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+06/30/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+07/01/23,Los Angeles Angels,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+07/01/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+07/01/23,Baltimore Orioles,Minnesota Twins,Baltimore,Maryland,MLB,Baseball
+07/01/23,Chicago Cubs,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/01/23,Cincinnati Reds,San Diego Padres,Cincinnati,Ohio,MLB,Baseball
+07/01/23,Colorado Rockies,Detroit Tigers,Denver,Colorado,MLB,Baseball
+07/01/23,Kansas City Royals,Los Angeles Dodgers,Kansas City,Missouri,MLB,Baseball
+07/01/23,New York Mets,San Francisco Giants,New York,New York,MLB,Baseball
+07/01/23,Oakland Athletics,Chicago White Sox,Oakland,California,MLB,Baseball
+07/01/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+07/01/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+07/01/23,Seattle Mariners,Tampa Bay Rays,Seattle,Washington,MLB,Baseball
+07/01/23,St. Louis Cardinals,New York Yankees,St. Louis,Missouri,MLB,Baseball
+07/01/23,St. Louis Cardinals,New York Yankees,St. Louis,Missouri,MLB,Baseball
+07/01/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+07/01/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+07/02/23,Los Angeles Angels,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+07/02/23,Atlanta Braves,Miami Marlins,Atlanta,Georgia,MLB,Baseball
+07/02/23,Baltimore Orioles,Minnesota Twins,Baltimore,Maryland,MLB,Baseball
+07/02/23,Chicago Cubs,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/02/23,Cincinnati Reds,San Diego Padres,Cincinnati,Ohio,MLB,Baseball
+07/02/23,Colorado Rockies,Detroit Tigers,Denver,Colorado,MLB,Baseball
+07/02/23,Kansas City Royals,Los Angeles Dodgers,Kansas City,Missouri,MLB,Baseball
+07/02/23,New York Mets,San Francisco Giants,New York,New York,MLB,Baseball
+07/02/23,Oakland Athletics,Chicago White Sox,Oakland,California,MLB,Baseball
+07/02/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+07/02/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+07/02/23,Seattle Mariners,Tampa Bay Rays,Seattle,Washington,MLB,Baseball
+07/02/23,St. Louis Cardinals,New York Yankees,St. Louis,Missouri,MLB,Baseball
+07/02/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+07/02/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+07/03/23,Cleveland Guardians,Atlanta Braves,Cleveland,Ohio,MLB,Baseball
+07/03/23,Los Angeles Dodgers,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/03/23,Miami Marlins,St. Louis Cardinals,Miami,Florida,MLB,Baseball
+07/03/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+07/03/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+07/03/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+07/03/23,San Diego Padres,Los Angeles Angels,San Diego,California,MLB,Baseball
+07/03/23,San Francisco Giants,Seattle Mariners,San Francisco,California,MLB,Baseball
+07/03/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+07/03/23,Washington Nationals,Cincinnati Reds,Washington D.C.,Washington D.C.,MLB,Baseball
+07/04/23,Arizona Diamondbacks,New York Mets,Phoenix,Arizona,MLB,Baseball
+07/04/23,Boston Red Sox,Texas Rangers,Boston,Massachusetts,MLB,Baseball
+07/04/23,Chicago White Sox,Toronto Blue Jays,Chicago,Illinois,MLB,Baseball
+07/04/23,Cleveland Guardians,Atlanta Braves,Cleveland,Ohio,MLB,Baseball
+07/04/23,Detroit Tigers,Oakland Athletics,Detroit,Michigan,MLB,Baseball
+07/04/23,Houston Astros,Colorado Rockies,Houston,Texas,MLB,Baseball
+07/04/23,Los Angeles Dodgers,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/04/23,Miami Marlins,St. Louis Cardinals,Miami,Florida,MLB,Baseball
+07/04/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+07/04/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+07/04/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+07/04/23,San Diego Padres,Los Angeles Angels,San Diego,California,MLB,Baseball
+07/04/23,San Francisco Giants,Seattle Mariners,San Francisco,California,MLB,Baseball
+07/04/23,Tampa Bay Rays,Philadelphia Phillies,Tampa,Florida,MLB,Baseball
+07/04/23,Washington Nationals,Cincinnati Reds,Washington D.C.,Washington D.C.,MLB,Baseball
+07/05/23,Arizona Diamondbacks,New York Mets,Phoenix,Arizona,MLB,Baseball
+07/05/23,Boston Red Sox,Texas Rangers,Boston,Massachusetts,MLB,Baseball
+07/05/23,Cleveland Guardians,Atlanta Braves,Cleveland,Ohio,MLB,Baseball
+07/05/23,Detroit Tigers,Oakland Athletics,Detroit,Michigan,MLB,Baseball
+07/05/23,Houston Astros,Colorado Rockies,Houston,Texas,MLB,Baseball
+07/05/23,Los Angeles Dodgers,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/05/23,Miami Marlins,St. Louis Cardinals,Miami,Florida,MLB,Baseball
+07/05/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+07/05/23,Minnesota Twins,Kansas City Royals,Minneapolis,Minnesota,MLB,Baseball
+07/05/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+07/05/23,San Diego Padres,Los Angeles Angels,San Diego,California,MLB,Baseball
+07/05/23,San Francisco Giants,Seattle Mariners,San Francisco,California,MLB,Baseball
+07/05/23,Tampa Bay Rays,Philadelphia Phillies,Tampa,Florida,MLB,Baseball
+07/05/23,Washington Nationals,Cincinnati Reds,Washington D.C.,Washington D.C.,MLB,Baseball
+07/06/23,Arizona Diamondbacks,New York Mets,Phoenix,Arizona,MLB,Baseball
+07/06/23,Boston Red Sox,Texas Rangers,Boston,Massachusetts,MLB,Baseball
+07/06/23,Chicago White Sox,Toronto Blue Jays,Chicago,Illinois,MLB,Baseball
+07/06/23,Chicago White Sox,Toronto Blue Jays,Chicago,Illinois,MLB,Baseball
+07/06/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/06/23,Detroit Tigers,Oakland Athletics,Detroit,Michigan,MLB,Baseball
+07/06/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+07/06/23,Los Angeles Dodgers,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/06/23,Miami Marlins,St. Louis Cardinals,Miami,Florida,MLB,Baseball
+07/06/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+07/06/23,New York Yankees,Baltimore Orioles,New York,New York,MLB,Baseball
+07/06/23,Tampa Bay Rays,Philadelphia Phillies,Tampa,Florida,MLB,Baseball
+07/06/23,Washington Nationals,Cincinnati Reds,Washington D.C.,Washington D.C.,MLB,Baseball
+07/07/23,Arizona Diamondbacks,Pittsburgh Pirates,Phoenix,Arizona,MLB,Baseball
+07/07/23,Boston Red Sox,Oakland Athletics,Boston,Massachusetts,MLB,Baseball
+07/07/23,Chicago White Sox,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/07/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/07/23,Detroit Tigers,Toronto Blue Jays,Detroit,Michigan,MLB,Baseball
+07/07/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+07/07/23,Los Angeles Dodgers,Los Angeles Angels,Los Angeles,California,MLB,Baseball
+07/07/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+07/07/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/07/23,Minnesota Twins,Baltimore Orioles,Minneapolis,Minnesota,MLB,Baseball
+07/07/23,New York Yankees,Chicago Cubs,New York,New York,MLB,Baseball
+07/07/23,San Diego Padres,New York Mets,San Diego,California,MLB,Baseball
+07/07/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+07/07/23,Tampa Bay Rays,Atlanta Braves,Tampa,Florida,MLB,Baseball
+07/07/23,Washington Nationals,Texas Rangers,Washington D.C.,Washington D.C.,MLB,Baseball
+07/08/23,Arizona Diamondbacks,Pittsburgh Pirates,Phoenix,Arizona,MLB,Baseball
+07/08/23,Boston Red Sox,Oakland Athletics,Boston,Massachusetts,MLB,Baseball
+07/08/23,Chicago White Sox,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/08/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/08/23,Detroit Tigers,Toronto Blue Jays,Detroit,Michigan,MLB,Baseball
+07/08/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+07/08/23,Los Angeles Dodgers,Los Angeles Angels,Los Angeles,California,MLB,Baseball
+07/08/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+07/08/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/08/23,Minnesota Twins,Baltimore Orioles,Minneapolis,Minnesota,MLB,Baseball
+07/08/23,New York Yankees,Chicago Cubs,New York,New York,MLB,Baseball
+07/08/23,San Diego Padres,New York Mets,San Diego,California,MLB,Baseball
+07/08/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+07/08/23,Tampa Bay Rays,Atlanta Braves,Tampa,Florida,MLB,Baseball
+07/08/23,Washington Nationals,Texas Rangers,Washington D.C.,Washington D.C.,MLB,Baseball
+07/09/23,Arizona Diamondbacks,Pittsburgh Pirates,Phoenix,Arizona,MLB,Baseball
+07/09/23,Boston Red Sox,Oakland Athletics,Boston,Massachusetts,MLB,Baseball
+07/09/23,Chicago White Sox,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/09/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/09/23,Detroit Tigers,Toronto Blue Jays,Detroit,Michigan,MLB,Baseball
+07/09/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+07/09/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+07/09/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/09/23,Minnesota Twins,Baltimore Orioles,Minneapolis,Minnesota,MLB,Baseball
+07/09/23,New York Yankees,Chicago Cubs,New York,New York,MLB,Baseball
+07/09/23,San Diego Padres,New York Mets,San Diego,California,MLB,Baseball
+07/09/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+07/09/23,Tampa Bay Rays,Atlanta Braves,Tampa,Florida,MLB,Baseball
+07/09/23,Washington Nationals,Texas Rangers,Washington D.C.,Washington D.C.,MLB,Baseball
+07/14/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+07/14/23,Atlanta Braves,Chicago White Sox,Atlanta,Georgia,MLB,Baseball
+07/14/23,Baltimore Orioles,Miami Marlins,Baltimore,Maryland,MLB,Baseball
+07/14/23,Chicago Cubs,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+07/14/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+07/14/23,Colorado Rockies,New York Yankees,Denver,Colorado,MLB,Baseball
+07/14/23,New York Mets,Los Angeles Dodgers,New York,New York,MLB,Baseball
+07/14/23,Oakland Athletics,Minnesota Twins,Oakland,California,MLB,Baseball
+07/14/23,Philadelphia Phillies,San Diego Padres,Philadelphia,Pennsylvania,MLB,Baseball
+07/14/23,Pittsburgh Pirates,San Francisco Giants,Pittsburgh,Pennsylvania,MLB,Baseball
+07/14/23,Seattle Mariners,Detroit Tigers,Seattle,Washington,MLB,Baseball
+07/14/23,St. Louis Cardinals,Washington Nationals,St. Louis,Missouri,MLB,Baseball
+07/14/23,Texas Rangers,Cleveland Guardians,Arlington,Texas,MLB,Baseball
+07/14/23,Toronto Blue Jays,Arizona Diamondbacks,Toronto,Ontario,MLB,Baseball
+07/15/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+07/15/23,Atlanta Braves,Chicago White Sox,Atlanta,Georgia,MLB,Baseball
+07/15/23,Baltimore Orioles,Miami Marlins,Baltimore,Maryland,MLB,Baseball
+07/15/23,Chicago Cubs,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+07/15/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+07/15/23,Colorado Rockies,New York Yankees,Denver,Colorado,MLB,Baseball
+07/15/23,Kansas City Royals,Tampa Bay Rays,Kansas City,Missouri,MLB,Baseball
+07/15/23,Kansas City Royals,Tampa Bay Rays,Kansas City,Missouri,MLB,Baseball
+07/15/23,New York Mets,Los Angeles Dodgers,New York,New York,MLB,Baseball
+07/15/23,Oakland Athletics,Minnesota Twins,Oakland,California,MLB,Baseball
+07/15/23,Philadelphia Phillies,San Diego Padres,Philadelphia,Pennsylvania,MLB,Baseball
+07/15/23,Philadelphia Phillies,San Diego Padres,Philadelphia,Pennsylvania,MLB,Baseball
+07/15/23,Pittsburgh Pirates,San Francisco Giants,Pittsburgh,Pennsylvania,MLB,Baseball
+07/15/23,Seattle Mariners,Detroit Tigers,Seattle,Washington,MLB,Baseball
+07/15/23,St. Louis Cardinals,Washington Nationals,St. Louis,Missouri,MLB,Baseball
+07/15/23,Texas Rangers,Cleveland Guardians,Arlington,Texas,MLB,Baseball
+07/15/23,Toronto Blue Jays,Arizona Diamondbacks,Toronto,Ontario,MLB,Baseball
+07/16/23,Los Angeles Angels,Houston Astros,Los Angeles,California,MLB,Baseball
+07/16/23,Atlanta Braves,Chicago White Sox,Atlanta,Georgia,MLB,Baseball
+07/16/23,Baltimore Orioles,Miami Marlins,Baltimore,Maryland,MLB,Baseball
+07/16/23,Chicago Cubs,Boston Red Sox,Chicago,Illinois,MLB,Baseball
+07/16/23,Cincinnati Reds,Milwaukee Brewers,Cincinnati,Ohio,MLB,Baseball
+07/16/23,Colorado Rockies,New York Yankees,Denver,Colorado,MLB,Baseball
+07/16/23,Kansas City Royals,Tampa Bay Rays,Kansas City,Missouri,MLB,Baseball
+07/16/23,New York Mets,Los Angeles Dodgers,New York,New York,MLB,Baseball
+07/16/23,Oakland Athletics,Minnesota Twins,Oakland,California,MLB,Baseball
+07/16/23,Philadelphia Phillies,San Diego Padres,Philadelphia,Pennsylvania,MLB,Baseball
+07/16/23,Pittsburgh Pirates,San Francisco Giants,Pittsburgh,Pennsylvania,MLB,Baseball
+07/16/23,Seattle Mariners,Detroit Tigers,Seattle,Washington,MLB,Baseball
+07/16/23,St. Louis Cardinals,Washington Nationals,St. Louis,Missouri,MLB,Baseball
+07/16/23,Texas Rangers,Cleveland Guardians,Arlington,Texas,MLB,Baseball
+07/16/23,Toronto Blue Jays,Arizona Diamondbacks,Toronto,Ontario,MLB,Baseball
+07/17/23,Los Angeles Angels,New York Yankees,Los Angeles,California,MLB,Baseball
+07/17/23,Baltimore Orioles,Los Angeles Dodgers,Baltimore,Maryland,MLB,Baseball
+07/17/23,Chicago Cubs,Washington Nationals,Chicago,Illinois,MLB,Baseball
+07/17/23,Cincinnati Reds,San Francisco Giants,Cincinnati,Ohio,MLB,Baseball
+07/17/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+07/17/23,Oakland Athletics,Boston Red Sox,Oakland,California,MLB,Baseball
+07/17/23,Pittsburgh Pirates,Cleveland Guardians,Pittsburgh,Pennsylvania,MLB,Baseball
+07/17/23,Seattle Mariners,Minnesota Twins,Seattle,Washington,MLB,Baseball
+07/17/23,St. Louis Cardinals,Miami Marlins,St. Louis,Missouri,MLB,Baseball
+07/17/23,Texas Rangers,Tampa Bay Rays,Arlington,Texas,MLB,Baseball
+07/18/23,Los Angeles Angels,New York Yankees,Los Angeles,California,MLB,Baseball
+07/18/23,Atlanta Braves,Arizona Diamondbacks,Atlanta,Georgia,MLB,Baseball
+07/18/23,Baltimore Orioles,Los Angeles Dodgers,Baltimore,Maryland,MLB,Baseball
+07/18/23,Chicago Cubs,Washington Nationals,Chicago,Illinois,MLB,Baseball
+07/18/23,Cincinnati Reds,San Francisco Giants,Cincinnati,Ohio,MLB,Baseball
+07/18/23,Colorado Rockies,Houston Astros,Denver,Colorado,MLB,Baseball
+07/18/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+07/18/23,New York Mets,Chicago White Sox,New York,New York,MLB,Baseball
+07/18/23,Oakland Athletics,Boston Red Sox,Oakland,California,MLB,Baseball
+07/18/23,Philadelphia Phillies,Milwaukee Brewers,Philadelphia,Pennsylvania,MLB,Baseball
+07/18/23,Pittsburgh Pirates,Cleveland Guardians,Pittsburgh,Pennsylvania,MLB,Baseball
+07/18/23,Seattle Mariners,Minnesota Twins,Seattle,Washington,MLB,Baseball
+07/18/23,St. Louis Cardinals,Miami Marlins,St. Louis,Missouri,MLB,Baseball
+07/18/23,Texas Rangers,Tampa Bay Rays,Arlington,Texas,MLB,Baseball
+07/18/23,Toronto Blue Jays,San Diego Padres,Toronto,Ontario,MLB,Baseball
+07/19/23,Los Angeles Angels,New York Yankees,Los Angeles,California,MLB,Baseball
+07/19/23,Atlanta Braves,Arizona Diamondbacks,Atlanta,Georgia,MLB,Baseball
+07/19/23,Baltimore Orioles,Los Angeles Dodgers,Baltimore,Maryland,MLB,Baseball
+07/19/23,Chicago Cubs,Washington Nationals,Chicago,Illinois,MLB,Baseball
+07/19/23,Cincinnati Reds,San Francisco Giants,Cincinnati,Ohio,MLB,Baseball
+07/19/23,Colorado Rockies,Houston Astros,Denver,Colorado,MLB,Baseball
+07/19/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+07/19/23,New York Mets,Chicago White Sox,New York,New York,MLB,Baseball
+07/19/23,Oakland Athletics,Boston Red Sox,Oakland,California,MLB,Baseball
+07/19/23,Philadelphia Phillies,Milwaukee Brewers,Philadelphia,Pennsylvania,MLB,Baseball
+07/19/23,Pittsburgh Pirates,Cleveland Guardians,Pittsburgh,Pennsylvania,MLB,Baseball
+07/19/23,Seattle Mariners,Minnesota Twins,Seattle,Washington,MLB,Baseball
+07/19/23,St. Louis Cardinals,Miami Marlins,St. Louis,Missouri,MLB,Baseball
+07/19/23,Texas Rangers,Tampa Bay Rays,Arlington,Texas,MLB,Baseball
+07/19/23,Toronto Blue Jays,San Diego Padres,Toronto,Ontario,MLB,Baseball
+07/20/23,Atlanta Braves,Arizona Diamondbacks,Atlanta,Georgia,MLB,Baseball
+07/20/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/20/23,Cincinnati Reds,San Francisco Giants,Cincinnati,Ohio,MLB,Baseball
+07/20/23,Kansas City Royals,Detroit Tigers,Kansas City,Missouri,MLB,Baseball
+07/20/23,New York Mets,Chicago White Sox,New York,New York,MLB,Baseball
+07/20/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+07/20/23,Philadelphia Phillies,Milwaukee Brewers,Philadelphia,Pennsylvania,MLB,Baseball
+07/20/23,Seattle Mariners,Minnesota Twins,Seattle,Washington,MLB,Baseball
+07/20/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+07/20/23,Toronto Blue Jays,San Diego Padres,Toronto,Ontario,MLB,Baseball
+07/21/23,Los Angeles Angels,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/21/23,Boston Red Sox,New York Mets,Boston,Massachusetts,MLB,Baseball
+07/21/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/21/23,Cincinnati Reds,Arizona Diamondbacks,Cincinnati,Ohio,MLB,Baseball
+07/21/23,Cleveland Guardians,Philadelphia Phillies,Cleveland,Ohio,MLB,Baseball
+07/21/23,Detroit Tigers,San Diego Padres,Detroit,Michigan,MLB,Baseball
+07/21/23,Miami Marlins,Colorado Rockies,Miami,Florida,MLB,Baseball
+07/21/23,Milwaukee Brewers,Atlanta Braves,Milwaukee,Wisconsin,MLB,Baseball
+07/21/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+07/21/23,New York Yankees,Kansas City Royals,New York,New York,MLB,Baseball
+07/21/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+07/21/23,Seattle Mariners,Toronto Blue Jays,Seattle,Washington,MLB,Baseball
+07/21/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+07/21/23,Texas Rangers,Los Angeles Dodgers,Arlington,Texas,MLB,Baseball
+07/21/23,Washington Nationals,San Francisco Giants,Washington D.C.,Washington D.C.,MLB,Baseball
+07/22/23,Los Angeles Angels,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/22/23,Boston Red Sox,New York Mets,Boston,Massachusetts,MLB,Baseball
+07/22/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/22/23,Cincinnati Reds,Arizona Diamondbacks,Cincinnati,Ohio,MLB,Baseball
+07/22/23,Cleveland Guardians,Philadelphia Phillies,Cleveland,Ohio,MLB,Baseball
+07/22/23,Detroit Tigers,San Diego Padres,Detroit,Michigan,MLB,Baseball
+07/22/23,Miami Marlins,Colorado Rockies,Miami,Florida,MLB,Baseball
+07/22/23,Milwaukee Brewers,Atlanta Braves,Milwaukee,Wisconsin,MLB,Baseball
+07/22/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+07/22/23,New York Yankees,Kansas City Royals,New York,New York,MLB,Baseball
+07/22/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+07/22/23,Seattle Mariners,Toronto Blue Jays,Seattle,Washington,MLB,Baseball
+07/22/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+07/22/23,Texas Rangers,Los Angeles Dodgers,Arlington,Texas,MLB,Baseball
+07/22/23,Washington Nationals,San Francisco Giants,Washington D.C.,Washington D.C.,MLB,Baseball
+07/23/23,Los Angeles Angels,Pittsburgh Pirates,Los Angeles,California,MLB,Baseball
+07/23/23,Boston Red Sox,New York Mets,Boston,Massachusetts,MLB,Baseball
+07/23/23,Chicago Cubs,St. Louis Cardinals,Chicago,Illinois,MLB,Baseball
+07/23/23,Cincinnati Reds,Arizona Diamondbacks,Cincinnati,Ohio,MLB,Baseball
+07/23/23,Cleveland Guardians,Philadelphia Phillies,Cleveland,Ohio,MLB,Baseball
+07/23/23,Detroit Tigers,San Diego Padres,Detroit,Michigan,MLB,Baseball
+07/23/23,Miami Marlins,Colorado Rockies,Miami,Florida,MLB,Baseball
+07/23/23,Milwaukee Brewers,Atlanta Braves,Milwaukee,Wisconsin,MLB,Baseball
+07/23/23,Minnesota Twins,Chicago White Sox,Minneapolis,Minnesota,MLB,Baseball
+07/23/23,New York Yankees,Kansas City Royals,New York,New York,MLB,Baseball
+07/23/23,Oakland Athletics,Houston Astros,Oakland,California,MLB,Baseball
+07/23/23,Seattle Mariners,Toronto Blue Jays,Seattle,Washington,MLB,Baseball
+07/23/23,Tampa Bay Rays,Baltimore Orioles,Tampa,Florida,MLB,Baseball
+07/23/23,Texas Rangers,Los Angeles Dodgers,Arlington,Texas,MLB,Baseball
+07/23/23,Washington Nationals,San Francisco Giants,Washington D.C.,Washington D.C.,MLB,Baseball
+07/24/23,Arizona Diamondbacks,St. Louis Cardinals,Phoenix,Arizona,MLB,Baseball
+07/24/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/24/23,Detroit Tigers,San Francisco Giants,Detroit,Michigan,MLB,Baseball
+07/24/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+07/24/23,Los Angeles Dodgers,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+07/24/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/24/23,Minnesota Twins,Seattle Mariners,Minneapolis,Minnesota,MLB,Baseball
+07/24/23,Philadelphia Phillies,Baltimore Orioles,Philadelphia,Pennsylvania,MLB,Baseball
+07/24/23,San Diego Padres,Pittsburgh Pirates,San Diego,California,MLB,Baseball
+07/24/23,Washington Nationals,Colorado Rockies,Washington D.C.,Washington D.C.,MLB,Baseball
+07/25/23,Arizona Diamondbacks,St. Louis Cardinals,Phoenix,Arizona,MLB,Baseball
+07/25/23,Boston Red Sox,Atlanta Braves,Boston,Massachusetts,MLB,Baseball
+07/25/23,Chicago White Sox,Chicago Cubs,Chicago,Illinois,MLB,Baseball
+07/25/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/25/23,Detroit Tigers,Los Angeles Angels,Detroit,Michigan,MLB,Baseball
+07/25/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+07/25/23,Los Angeles Dodgers,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+07/25/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/25/23,Minnesota Twins,Seattle Mariners,Minneapolis,Minnesota,MLB,Baseball
+07/25/23,New York Yankees,New York Mets,New York,New York,MLB,Baseball
+07/25/23,Philadelphia Phillies,Baltimore Orioles,Philadelphia,Pennsylvania,MLB,Baseball
+07/25/23,San Diego Padres,Pittsburgh Pirates,San Diego,California,MLB,Baseball
+07/25/23,San Francisco Giants,Oakland Athletics,San Francisco,California,MLB,Baseball
+07/25/23,Tampa Bay Rays,Miami Marlins,Tampa,Florida,MLB,Baseball
+07/25/23,Washington Nationals,Colorado Rockies,Washington D.C.,Washington D.C.,MLB,Baseball
+07/26/23,Arizona Diamondbacks,St. Louis Cardinals,Phoenix,Arizona,MLB,Baseball
+07/26/23,Boston Red Sox,Atlanta Braves,Boston,Massachusetts,MLB,Baseball
+07/26/23,Chicago White Sox,Chicago Cubs,Chicago,Illinois,MLB,Baseball
+07/26/23,Cleveland Guardians,Kansas City Royals,Cleveland,Ohio,MLB,Baseball
+07/26/23,Houston Astros,Texas Rangers,Houston,Texas,MLB,Baseball
+07/26/23,Los Angeles Dodgers,Toronto Blue Jays,Los Angeles,California,MLB,Baseball
+07/26/23,Milwaukee Brewers,Cincinnati Reds,Milwaukee,Wisconsin,MLB,Baseball
+07/26/23,Minnesota Twins,Seattle Mariners,Minneapolis,Minnesota,MLB,Baseball
+07/26/23,New York Yankees,New York Mets,New York,New York,MLB,Baseball
+07/26/23,Philadelphia Phillies,Baltimore Orioles,Philadelphia,Pennsylvania,MLB,Baseball
+07/26/23,San Diego Padres,Pittsburgh Pirates,San Diego,California,MLB,Baseball
+07/26/23,San Francisco Giants,Oakland Athletics,San Francisco,California,MLB,Baseball
+07/26/23,Tampa Bay Rays,Miami Marlins,Tampa,Florida,MLB,Baseball
+07/26/23,Washington Nationals,Colorado Rockies,Washington D.C.,Washington D.C.,MLB,Baseball
+07/27/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/27/23,Detroit Tigers,Los Angeles Angels,Detroit,Michigan,MLB,Baseball
+07/27/23,Detroit Tigers,Los Angeles Angels,Detroit,Michigan,MLB,Baseball
+07/27/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+07/27/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+07/28/23,Arizona Diamondbacks,Seattle Mariners,Phoenix,Arizona,MLB,Baseball
+07/28/23,Atlanta Braves,Milwaukee Brewers,Atlanta,Georgia,MLB,Baseball
+07/28/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+07/28/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/28/23,Colorado Rockies,Oakland Athletics,Denver,Colorado,MLB,Baseball
+07/28/23,Houston Astros,Tampa Bay Rays,Houston,Texas,MLB,Baseball
+07/28/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+07/28/23,Los Angeles Dodgers,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+07/28/23,Miami Marlins,Detroit Tigers,Miami,Florida,MLB,Baseball
+07/28/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+07/28/23,Pittsburgh Pirates,Philadelphia Phillies,Pittsburgh,Pennsylvania,MLB,Baseball
+07/28/23,San Diego Padres,Texas Rangers,San Diego,California,MLB,Baseball
+07/28/23,San Francisco Giants,Boston Red Sox,San Francisco,California,MLB,Baseball
+07/28/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+07/28/23,Toronto Blue Jays,Los Angeles Angels,Toronto,Ontario,MLB,Baseball
+07/29/23,Arizona Diamondbacks,Seattle Mariners,Phoenix,Arizona,MLB,Baseball
+07/29/23,Atlanta Braves,Milwaukee Brewers,Atlanta,Georgia,MLB,Baseball
+07/29/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+07/29/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/29/23,Colorado Rockies,Oakland Athletics,Denver,Colorado,MLB,Baseball
+07/29/23,Houston Astros,Tampa Bay Rays,Houston,Texas,MLB,Baseball
+07/29/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+07/29/23,Los Angeles Dodgers,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+07/29/23,Miami Marlins,Detroit Tigers,Miami,Florida,MLB,Baseball
+07/29/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+07/29/23,Pittsburgh Pirates,Philadelphia Phillies,Pittsburgh,Pennsylvania,MLB,Baseball
+07/29/23,San Diego Padres,Texas Rangers,San Diego,California,MLB,Baseball
+07/29/23,San Francisco Giants,Boston Red Sox,San Francisco,California,MLB,Baseball
+07/29/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+07/29/23,Toronto Blue Jays,Los Angeles Angels,Toronto,Ontario,MLB,Baseball
+07/30/23,Arizona Diamondbacks,Seattle Mariners,Phoenix,Arizona,MLB,Baseball
+07/30/23,Atlanta Braves,Milwaukee Brewers,Atlanta,Georgia,MLB,Baseball
+07/30/23,Baltimore Orioles,New York Yankees,Baltimore,Maryland,MLB,Baseball
+07/30/23,Chicago White Sox,Cleveland Guardians,Chicago,Illinois,MLB,Baseball
+07/30/23,Colorado Rockies,Oakland Athletics,Denver,Colorado,MLB,Baseball
+07/30/23,Houston Astros,Tampa Bay Rays,Houston,Texas,MLB,Baseball
+07/30/23,Kansas City Royals,Minnesota Twins,Kansas City,Missouri,MLB,Baseball
+07/30/23,Los Angeles Dodgers,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+07/30/23,Miami Marlins,Detroit Tigers,Miami,Florida,MLB,Baseball
+07/30/23,New York Mets,Washington Nationals,New York,New York,MLB,Baseball
+07/30/23,Pittsburgh Pirates,Philadelphia Phillies,Pittsburgh,Pennsylvania,MLB,Baseball
+07/30/23,San Diego Padres,Texas Rangers,San Diego,California,MLB,Baseball
+07/30/23,San Francisco Giants,Boston Red Sox,San Francisco,California,MLB,Baseball
+07/30/23,St. Louis Cardinals,Chicago Cubs,St. Louis,Missouri,MLB,Baseball
+07/30/23,Toronto Blue Jays,Los Angeles Angels,Toronto,Ontario,MLB,Baseball
+07/31/23,Atlanta Braves,Los Angeles Angels,Atlanta,Georgia,MLB,Baseball
+07/31/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+07/31/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+07/31/23,Houston Astros,Cleveland Guardians,Houston,Texas,MLB,Baseball
+07/31/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+07/31/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+07/31/23,Seattle Mariners,Boston Red Sox,Seattle,Washington,MLB,Baseball
+07/31/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+07/31/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+07/31/23,Washington Nationals,Milwaukee Brewers,Washington D.C.,Washington D.C.,MLB,Baseball
+08/01/23,Atlanta Braves,Los Angeles Angels,Atlanta,Georgia,MLB,Baseball
+08/01/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+08/01/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+08/01/23,Houston Astros,Cleveland Guardians,Houston,Texas,MLB,Baseball
+08/01/23,Kansas City Royals,New York Mets,Kansas City,Missouri,MLB,Baseball
+08/01/23,Los Angeles Dodgers,Oakland Athletics,Los Angeles,California,MLB,Baseball
+08/01/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+08/01/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+08/01/23,Pittsburgh Pirates,Detroit Tigers,Pittsburgh,Pennsylvania,MLB,Baseball
+08/01/23,Seattle Mariners,Boston Red Sox,Seattle,Washington,MLB,Baseball
+08/01/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+08/01/23,St. Louis Cardinals,Minnesota Twins,St. Louis,Missouri,MLB,Baseball
+08/01/23,Texas Rangers,Chicago White Sox,Arlington,Texas,MLB,Baseball
+08/01/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+08/01/23,Washington Nationals,Milwaukee Brewers,Washington D.C.,Washington D.C.,MLB,Baseball
+08/02/23,Atlanta Braves,Los Angeles Angels,Atlanta,Georgia,MLB,Baseball
+08/02/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+08/02/23,Colorado Rockies,San Diego Padres,Denver,Colorado,MLB,Baseball
+08/02/23,Houston Astros,Cleveland Guardians,Houston,Texas,MLB,Baseball
+08/02/23,Kansas City Royals,New York Mets,Kansas City,Missouri,MLB,Baseball
+08/02/23,Los Angeles Dodgers,Oakland Athletics,Los Angeles,California,MLB,Baseball
+08/02/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+08/02/23,New York Yankees,Tampa Bay Rays,New York,New York,MLB,Baseball
+08/02/23,Pittsburgh Pirates,Detroit Tigers,Pittsburgh,Pennsylvania,MLB,Baseball
+08/02/23,Seattle Mariners,Boston Red Sox,Seattle,Washington,MLB,Baseball
+08/02/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+08/02/23,St. Louis Cardinals,Minnesota Twins,St. Louis,Missouri,MLB,Baseball
+08/02/23,Texas Rangers,Chicago White Sox,Arlington,Texas,MLB,Baseball
+08/02/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+08/02/23,Washington Nationals,Milwaukee Brewers,Washington D.C.,Washington D.C.,MLB,Baseball
+08/03/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+08/03/23,Chicago Cubs,Cincinnati Reds,Chicago,Illinois,MLB,Baseball
+08/03/23,Kansas City Royals,New York Mets,Kansas City,Missouri,MLB,Baseball
+08/03/23,Los Angeles Dodgers,Oakland Athletics,Los Angeles,California,MLB,Baseball
+08/03/23,Miami Marlins,Philadelphia Phillies,Miami,Florida,MLB,Baseball
+08/03/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+08/03/23,New York Yankees,Houston Astros,New York,New York,MLB,Baseball
+08/03/23,San Francisco Giants,Arizona Diamondbacks,San Francisco,California,MLB,Baseball
+08/03/23,St. Louis Cardinals,Minnesota Twins,St. Louis,Missouri,MLB,Baseball
+08/03/23,Texas Rangers,Chicago White Sox,Arlington,Texas,MLB,Baseball
+08/03/23,Toronto Blue Jays,Baltimore Orioles,Toronto,Ontario,MLB,Baseball
+08/04/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+08/04/23,Baltimore Orioles,New York Mets,Baltimore,Maryland,MLB,Baseball
+08/04/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+08/04/23,Chicago Cubs,Atlanta Braves,Chicago,Illinois,MLB,Baseball
+08/04/23,Cincinnati Reds,Washington Nationals,Cincinnati,Ohio,MLB,Baseball
+08/04/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+08/04/23,Detroit Tigers,Tampa Bay Rays,Detroit,Michigan,MLB,Baseball
+08/04/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+08/04/23,Minnesota Twins,Arizona Diamondbacks,Minneapolis,Minnesota,MLB,Baseball
+08/04/23,New York Yankees,Houston Astros,New York,New York,MLB,Baseball
+08/04/23,Philadelphia Phillies,Kansas City Royals,Philadelphia,Pennsylvania,MLB,Baseball
+08/04/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+08/04/23,St. Louis Cardinals,Colorado Rockies,St. Louis,Missouri,MLB,Baseball
+08/04/23,Texas Rangers,Miami Marlins,Arlington,Texas,MLB,Baseball
+08/05/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+08/05/23,Baltimore Orioles,New York Mets,Baltimore,Maryland,MLB,Baseball
+08/05/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+08/05/23,Chicago Cubs,Atlanta Braves,Chicago,Illinois,MLB,Baseball
+08/05/23,Cincinnati Reds,Washington Nationals,Cincinnati,Ohio,MLB,Baseball
+08/05/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+08/05/23,Detroit Tigers,Tampa Bay Rays,Detroit,Michigan,MLB,Baseball
+08/05/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+08/05/23,Minnesota Twins,Arizona Diamondbacks,Minneapolis,Minnesota,MLB,Baseball
+08/05/23,New York Yankees,Houston Astros,New York,New York,MLB,Baseball
+08/05/23,Oakland Athletics,San Francisco Giants,Oakland,California,MLB,Baseball
+08/05/23,Philadelphia Phillies,Kansas City Royals,Philadelphia,Pennsylvania,MLB,Baseball
+08/05/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+08/05/23,St. Louis Cardinals,Colorado Rockies,St. Louis,Missouri,MLB,Baseball
+08/05/23,Texas Rangers,Miami Marlins,Arlington,Texas,MLB,Baseball
+08/06/23,Cleveland Guardians,Chicago White Sox,Cleveland,Ohio,MLB,Baseball
+08/06/23,Baltimore Orioles,New York Mets,Baltimore,Maryland,MLB,Baseball
+08/06/23,Boston Red Sox,Toronto Blue Jays,Boston,Massachusetts,MLB,Baseball
+08/06/23,New York Yankees,Houston Astros,New York,New York,MLB,Baseball
+08/06/23,Philadelphia Phillies,Kansas City Royals,Philadelphia,Pennsylvania,MLB,Baseball
+08/06/23,Cincinnati Reds,Washington Nationals,Cincinnati,Ohio,MLB,Baseball
+08/06/23,Detroit Tigers,Tampa Bay Rays,Detroit,Michigan,MLB,Baseball
+08/06/23,Milwaukee Brewers,Pittsburgh Pirates,Milwaukee,Wisconsin,MLB,Baseball
+08/06/23,Minnesota Twins,Arizona Diamondbacks,Minneapolis,Minnesota,MLB,Baseball
+08/06/23,St. Louis Cardinals,Colorado Rockies,St. Louis,Missouri,MLB,Baseball
+08/06/23,Chicago Cubs,Atlanta Braves,Chicago,Illinois,MLB,Baseball
+08/06/23,Texas Rangers,Miami Marlins,Arlington,Texas,MLB,Baseball
+08/06/23,Los Angeles Angels,Seattle Mariners,Los Angeles,California,MLB,Baseball
+08/06/23,Oakland Athletics,San Francisco Giants,Oakland,California,MLB,Baseball
+08/06/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+08/07/23,San Diego Padres,Los Angeles Dodgers,San Diego,California,MLB,Baseball
+08/07/23,Cincinnati Reds,Miami Marlins,Cincinnati,Ohio,MLB,Baseball
+08/07/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+08/07/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+08/07/23,Pittsburgh Pirates,Atlanta Braves,Pittsburgh,Pennsylvania,MLB,Baseball
+08/07/23,Boston Red Sox,Kansas City Royals,Boston,Massachusetts,MLB,Baseball
+08/07/23,Cleveland Guardians,Toronto Blue Jays,Cleveland,Ohio,MLB,Baseball
+08/07/23,New York Mets,Chicago Cubs,New York,New York,MLB,Baseball
+08/07/23,Chicago White Sox,New York Yankees,Chicago,Illinois,MLB,Baseball
+08/07/23,Milwaukee Brewers,Colorado Rockies,Milwaukee,Wisconsin,MLB,Baseball
+08/07/23,Los Angeles Angels,San Francisco Giants,Los Angeles,California,MLB,Baseball
+08/07/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+08/08/23,Cincinnati Reds,Miami Marlins,Cincinnati,Ohio,MLB,Baseball
+08/08/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+08/08/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+08/08/23,Tampa Bay Rays,St. Louis Cardinals,Tampa,Florida,MLB,Baseball
+08/08/23,Baltimore Orioles,Houston Astros,Baltimore,Maryland,MLB,Baseball
+08/08/23,Pittsburgh Pirates,Atlanta Braves,Pittsburgh,Pennsylvania,MLB,Baseball
+08/08/23,Boston Red Sox,Kansas City Royals,Boston,Massachusetts,MLB,Baseball
+08/08/23,Cleveland Guardians,Toronto Blue Jays,Cleveland,Ohio,MLB,Baseball
+08/08/23,New York Mets,Chicago Cubs,New York,New York,MLB,Baseball
+08/08/23,Chicago White Sox,New York Yankees,Chicago,Illinois,MLB,Baseball
+08/08/23,Milwaukee Brewers,Colorado Rockies,Milwaukee,Wisconsin,MLB,Baseball
+08/08/23,Los Angeles Angels,San Francisco Giants,Los Angeles,California,MLB,Baseball
+08/08/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+08/08/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+08/08/23,Seattle Mariners,San Diego Padres,Seattle,Washington,MLB,Baseball
+08/09/23,Cincinnati Reds,Miami Marlins,Cincinnati,Ohio,MLB,Baseball
+08/09/23,Milwaukee Brewers,Colorado Rockies,Milwaukee,Wisconsin,MLB,Baseball
+08/09/23,Oakland Athletics,Texas Rangers,Oakland,California,MLB,Baseball
+08/09/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+08/09/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+08/09/23,Tampa Bay Rays,St. Louis Cardinals,Tampa,Florida,MLB,Baseball
+08/09/23,Baltimore Orioles,Houston Astros,Baltimore,Maryland,MLB,Baseball
+08/09/23,Pittsburgh Pirates,Atlanta Braves,Pittsburgh,Pennsylvania,MLB,Baseball
+08/09/23,Boston Red Sox,Kansas City Royals,Boston,Massachusetts,MLB,Baseball
+08/09/23,Cleveland Guardians,Toronto Blue Jays,Cleveland,Ohio,MLB,Baseball
+08/09/23,New York Mets,Chicago Cubs,New York,New York,MLB,Baseball
+08/09/23,Chicago White Sox,New York Yankees,Chicago,Illinois,MLB,Baseball
+08/09/23,Los Angeles Angels,San Francisco Giants,Los Angeles,California,MLB,Baseball
+08/09/23,Arizona Diamondbacks,Los Angeles Dodgers,Phoenix,Arizona,MLB,Baseball
+08/09/23,Seattle Mariners,San Diego Padres,Seattle,Washington,MLB,Baseball
+08/10/23,Baltimore Orioles,Houston Astros,Baltimore,Maryland,MLB,Baseball
+08/10/23,Pittsburgh Pirates,Atlanta Braves,Pittsburgh,Pennsylvania,MLB,Baseball
+08/10/23,Cleveland Guardians,Toronto Blue Jays,Cleveland,Ohio,MLB,Baseball
+08/10/23,Detroit Tigers,Minnesota Twins,Detroit,Michigan,MLB,Baseball
+08/10/23,Philadelphia Phillies,Washington Nationals,Philadelphia,Pennsylvania,MLB,Baseball
+08/10/23,Tampa Bay Rays,St. Louis Cardinals,Tampa,Florida,MLB,Baseball
+08/10/23,Boston Red Sox,Kansas City Royals,Boston,Massachusetts,MLB,Baseball
+08/10/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+08/11/23,Miami Marlins,New York Yankees,Miami,Florida,MLB,Baseball
+08/11/23,Tampa Bay Rays,Cleveland Guardians,Tampa,Florida,MLB,Baseball
+08/11/23,Philadelphia Phillies,Minnesota Twins,Philadelphia,Pennsylvania,MLB,Baseball
+08/11/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+08/11/23,Washington Nationals,Oakland Athletics,Washington D.C.,Washington D.C.,MLB,Baseball
+08/11/23,Toronto Blue Jays,Chicago Cubs,Toronto,Ontario,MLB,Baseball
+08/11/23,Boston Red Sox,Detroit Tigers,Boston,Massachusetts,MLB,Baseball
+08/11/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+08/11/23,Chicago White Sox,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/11/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+08/11/23,Kansas City Royals,St. Louis Cardinals,Kansas City,Missouri,MLB,Baseball
+08/11/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+08/11/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+08/11/23,Seattle Mariners,Baltimore Orioles,Seattle,Washington,MLB,Baseball
+08/11/23,San Francisco Giants,Texas Rangers,San Francisco,California,MLB,Baseball
+08/12/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+08/12/23,Toronto Blue Jays,Chicago Cubs,Toronto,Ontario,MLB,Baseball
+08/12/23,Boston Red Sox,Detroit Tigers,Boston,Massachusetts,MLB,Baseball
+08/12/23,Miami Marlins,New York Yankees,Miami,Florida,MLB,Baseball
+08/12/23,Tampa Bay Rays,Cleveland Guardians,Tampa,Florida,MLB,Baseball
+08/12/23,Philadelphia Phillies,Minnesota Twins,Philadelphia,Pennsylvania,MLB,Baseball
+08/12/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+08/12/23,Washington Nationals,Oakland Athletics,Washington D.C.,Washington D.C.,MLB,Baseball
+08/12/23,Kansas City Royals,St. Louis Cardinals,Kansas City,Missouri,MLB,Baseball
+08/12/23,Chicago White Sox,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/12/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+08/12/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+08/12/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+08/12/23,San Francisco Giants,Texas Rangers,San Francisco,California,MLB,Baseball
+08/12/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+08/12/23,Seattle Mariners,Baltimore Orioles,Seattle,Washington,MLB,Baseball
+08/13/23,Boston Red Sox,Detroit Tigers,Boston,Massachusetts,MLB,Baseball
+08/13/23,Philadelphia Phillies,Minnesota Twins,Philadelphia,Pennsylvania,MLB,Baseball
+08/13/23,Pittsburgh Pirates,Cincinnati Reds,Pittsburgh,Pennsylvania,MLB,Baseball
+08/13/23,Washington Nationals,Oakland Athletics,Washington D.C.,Washington D.C.,MLB,Baseball
+08/13/23,Toronto Blue Jays,Chicago Cubs,Toronto,Ontario,MLB,Baseball
+08/13/23,Miami Marlins,New York Yankees,Miami,Florida,MLB,Baseball
+08/13/23,Tampa Bay Rays,Cleveland Guardians,Tampa,Florida,MLB,Baseball
+08/13/23,Chicago White Sox,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/13/23,Houston Astros,Los Angeles Angels,Houston,Texas,MLB,Baseball
+08/13/23,San Francisco Giants,Texas Rangers,San Francisco,California,MLB,Baseball
+08/13/23,Arizona Diamondbacks,San Diego Padres,Phoenix,Arizona,MLB,Baseball
+08/13/23,Los Angeles Dodgers,Colorado Rockies,Los Angeles,California,MLB,Baseball
+08/13/23,Seattle Mariners,Baltimore Orioles,Seattle,Washington,MLB,Baseball
+08/13/23,New York Mets,Atlanta Braves,New York,New York,MLB,Baseball
+08/14/23,Miami Marlins,Houston Astros,Miami,Florida,MLB,Baseball
+08/14/23,New York Mets,Pittsburgh Pirates,New York,New York,MLB,Baseball
+08/14/23,Atlanta Braves,New York Yankees,Atlanta,Georgia,MLB,Baseball
+08/14/23,St. Louis Cardinals,Oakland Athletics,St. Louis,Missouri,MLB,Baseball
+08/14/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+08/14/23,Kansas City Royals,Seattle Mariners,Kansas City,Missouri,MLB,Baseball
+08/14/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+08/14/23,San Diego Padres,Baltimore Orioles,San Diego,California,MLB,Baseball
+08/14/23,San Francisco Giants,Tampa Bay Rays,San Francisco,California,MLB,Baseball
+08/15/23,Cincinnati Reds,Cleveland Guardians,Cincinnati,Ohio,MLB,Baseball
+08/15/23,Miami Marlins,Houston Astros,Miami,Florida,MLB,Baseball
+08/15/23,Washington Nationals,Boston Red Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+08/15/23,Toronto Blue Jays,Philadelphia Phillies,Toronto,Ontario,MLB,Baseball
+08/15/23,New York Mets,Pittsburgh Pirates,New York,New York,MLB,Baseball
+08/15/23,Atlanta Braves,New York Yankees,Atlanta,Georgia,MLB,Baseball
+08/15/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+08/15/23,St. Louis Cardinals,Oakland Athletics,St. Louis,Missouri,MLB,Baseball
+08/15/23,Chicago Cubs,Chicago White Sox,Chicago,Illinois,MLB,Baseball
+08/15/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+08/15/23,Kansas City Royals,Seattle Mariners,Kansas City,Missouri,MLB,Baseball
+08/15/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+08/15/23,San Diego Padres,Baltimore Orioles,San Diego,California,MLB,Baseball
+08/15/23,San Francisco Giants,Tampa Bay Rays,San Francisco,California,MLB,Baseball
+08/15/23,Los Angeles Dodgers,Milwaukee Brewers,Los Angeles,California,MLB,Baseball
+08/16/23,Minnesota Twins,Detroit Tigers,Minneapolis,Minnesota,MLB,Baseball
+08/16/23,New York Mets,Pittsburgh Pirates,New York,New York,MLB,Baseball
+08/16/23,Colorado Rockies,Arizona Diamondbacks,Denver,Colorado,MLB,Baseball
+08/16/23,San Francisco Giants,Tampa Bay Rays,San Francisco,California,MLB,Baseball
+08/16/23,Cincinnati Reds,Cleveland Guardians,Cincinnati,Ohio,MLB,Baseball
+08/16/23,Miami Marlins,Houston Astros,Miami,Florida,MLB,Baseball
+08/16/23,St. Louis Cardinals,Oakland Athletics,St. Louis,Missouri,MLB,Baseball
+08/16/23,Washington Nationals,Boston Red Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+08/16/23,Toronto Blue Jays,Philadelphia Phillies,Toronto,Ontario,MLB,Baseball
+08/16/23,Atlanta Braves,New York Yankees,Atlanta,Georgia,MLB,Baseball
+08/16/23,Chicago Cubs,Chicago White Sox,Chicago,Illinois,MLB,Baseball
+08/16/23,Texas Rangers,Los Angeles Angels,Arlington,Texas,MLB,Baseball
+08/16/23,Kansas City Royals,Seattle Mariners,Kansas City,Missouri,MLB,Baseball
+08/16/23,San Diego Padres,Baltimore Orioles,San Diego,California,MLB,Baseball
+08/16/23,Los Angeles Dodgers,Milwaukee Brewers,Los Angeles,California,MLB,Baseball
+08/17/23,Kansas City Royals,Seattle Mariners,Kansas City,Missouri,MLB,Baseball
+08/17/23,Washington Nationals,Boston Red Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+08/17/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+08/17/23,St. Louis Cardinals,New York Mets,St. Louis,Missouri,MLB,Baseball
+08/17/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+08/17/23,Los Angeles Dodgers,Milwaukee Brewers,Los Angeles,California,MLB,Baseball
+08/18/23,Chicago Cubs,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+08/18/23,Cincinnati Reds,Toronto Blue Jays,Cincinnati,Ohio,MLB,Baseball
+08/18/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+08/18/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+08/18/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+08/18/23,Atlanta Braves,San Francisco Giants,Atlanta,Georgia,MLB,Baseball
+08/18/23,Texas Rangers,Milwaukee Brewers,Arlington,Texas,MLB,Baseball
+08/18/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+08/18/23,Minnesota Twins,Pittsburgh Pirates,Minneapolis,Minnesota,MLB,Baseball
+08/18/23,St. Louis Cardinals,New York Mets,St. Louis,Missouri,MLB,Baseball
+08/18/23,Colorado Rockies,Chicago White Sox,Denver,Colorado,MLB,Baseball
+08/18/23,Los Angeles Angels,Tampa Bay Rays,Los Angeles,California,MLB,Baseball
+08/18/23,Oakland Athletics,Baltimore Orioles,Oakland,California,MLB,Baseball
+08/18/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+08/18/23,Los Angeles Dodgers,Miami Marlins,Los Angeles,California,MLB,Baseball
+08/19/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+08/19/23,Chicago Cubs,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+08/19/23,Texas Rangers,Milwaukee Brewers,Arlington,Texas,MLB,Baseball
+08/19/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+08/19/23,Cincinnati Reds,Toronto Blue Jays,Cincinnati,Ohio,MLB,Baseball
+08/19/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+08/19/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+08/19/23,Minnesota Twins,Pittsburgh Pirates,Minneapolis,Minnesota,MLB,Baseball
+08/19/23,St. Louis Cardinals,New York Mets,St. Louis,Missouri,MLB,Baseball
+08/19/23,Atlanta Braves,San Francisco Giants,Atlanta,Georgia,MLB,Baseball
+08/19/23,Colorado Rockies,Chicago White Sox,Denver,Colorado,MLB,Baseball
+08/19/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+08/19/23,Los Angeles Angels,Tampa Bay Rays,Los Angeles,California,MLB,Baseball
+08/19/23,Oakland Athletics,Baltimore Orioles,Oakland,California,MLB,Baseball
+08/19/23,Los Angeles Dodgers,Miami Marlins,Los Angeles,California,MLB,Baseball
+08/20/23,Houston Astros,Seattle Mariners,Houston,Texas,MLB,Baseball
+08/20/23,Atlanta Braves,San Francisco Giants,Atlanta,Georgia,MLB,Baseball
+08/20/23,New York Yankees,Boston Red Sox,New York,New York,MLB,Baseball
+08/20/23,Cincinnati Reds,Toronto Blue Jays,Cincinnati,Ohio,MLB,Baseball
+08/20/23,Cleveland Guardians,Detroit Tigers,Cleveland,Ohio,MLB,Baseball
+08/20/23,Minnesota Twins,Pittsburgh Pirates,Minneapolis,Minnesota,MLB,Baseball
+08/20/23,St. Louis Cardinals,New York Mets,St. Louis,Missouri,MLB,Baseball
+08/20/23,Chicago Cubs,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+08/20/23,Texas Rangers,Milwaukee Brewers,Arlington,Texas,MLB,Baseball
+08/20/23,Colorado Rockies,Chicago White Sox,Denver,Colorado,MLB,Baseball
+08/20/23,Los Angeles Angels,Tampa Bay Rays,Los Angeles,California,MLB,Baseball
+08/20/23,Oakland Athletics,Baltimore Orioles,Oakland,California,MLB,Baseball
+08/20/23,Los Angeles Dodgers,Miami Marlins,Los Angeles,California,MLB,Baseball
+08/20/23,San Diego Padres,Arizona Diamondbacks,San Diego,California,MLB,Baseball
+08/20/23,Washington Nationals,Philadelphia Phillies,Washington D.C.,Washington D.C.,MLB,Baseball
+08/21/23,Detroit Tigers,Chicago Cubs,Detroit,Michigan,MLB,Baseball
+08/21/23,Philadelphia Phillies,San Francisco Giants,Philadelphia,Pennsylvania,MLB,Baseball
+08/21/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+08/21/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+08/21/23,Chicago White Sox,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+08/21/23,Houston Astros,Boston Red Sox,Houston,Texas,MLB,Baseball
+08/21/23,Los Angeles Angels,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+08/21/23,Arizona Diamondbacks,Texas Rangers,Phoenix,Arizona,MLB,Baseball
+08/21/23,Oakland Athletics,Kansas City Royals,Oakland,California,MLB,Baseball
+08/21/23,San Diego Padres,Miami Marlins,San Diego,California,MLB,Baseball
+08/22/23,Detroit Tigers,Chicago Cubs,Detroit,Michigan,MLB,Baseball
+08/22/23,Philadelphia Phillies,San Francisco Giants,Philadelphia,Pennsylvania,MLB,Baseball
+08/22/23,Tampa Bay Rays,Colorado Rockies,Tampa,Florida,MLB,Baseball
+08/22/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+08/22/23,New York Yankees,Washington Nationals,New York,New York,MLB,Baseball
+08/22/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+08/22/23,Cleveland Guardians,Los Angeles Dodgers,Cleveland,Ohio,MLB,Baseball
+08/22/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+08/22/23,Chicago White Sox,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+08/22/23,Houston Astros,Boston Red Sox,Houston,Texas,MLB,Baseball
+08/22/23,Milwaukee Brewers,Minnesota Twins,Milwaukee,Wisconsin,MLB,Baseball
+08/22/23,Los Angeles Angels,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+08/22/23,Arizona Diamondbacks,Texas Rangers,Phoenix,Arizona,MLB,Baseball
+08/22/23,Oakland Athletics,Kansas City Royals,Oakland,California,MLB,Baseball
+08/22/23,San Diego Padres,Miami Marlins,San Diego,California,MLB,Baseball
+08/23/23,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh,Pennsylvania,MLB,Baseball
+08/23/23,Detroit Tigers,Chicago Cubs,Detroit,Michigan,MLB,Baseball
+08/23/23,Chicago White Sox,Seattle Mariners,Chicago,Illinois,MLB,Baseball
+08/23/23,Milwaukee Brewers,Minnesota Twins,Milwaukee,Wisconsin,MLB,Baseball
+08/23/23,Oakland Athletics,Kansas City Royals,Oakland,California,MLB,Baseball
+08/23/23,Philadelphia Phillies,San Francisco Giants,Philadelphia,Pennsylvania,MLB,Baseball
+08/23/23,Los Angeles Angels,Cincinnati Reds,Los Angeles,California,MLB,Baseball
+08/23/23,San Diego Padres,Miami Marlins,San Diego,California,MLB,Baseball
+08/23/23,Tampa Bay Rays,Colorado Rockies,Tampa,Florida,MLB,Baseball
+08/23/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+08/23/23,New York Yankees,Washington Nationals,New York,New York,MLB,Baseball
+08/23/23,Cleveland Guardians,Los Angeles Dodgers,Cleveland,Ohio,MLB,Baseball
+08/23/23,Atlanta Braves,New York Mets,Atlanta,Georgia,MLB,Baseball
+08/23/23,Houston Astros,Boston Red Sox,Houston,Texas,MLB,Baseball
+08/24/23,New York Yankees,Washington Nationals,New York,New York,MLB,Baseball
+08/24/23,Cleveland Guardians,Los Angeles Dodgers,Cleveland,Ohio,MLB,Baseball
+08/24/23,Tampa Bay Rays,Colorado Rockies,Tampa,Florida,MLB,Baseball
+08/24/23,Houston Astros,Boston Red Sox,Houston,Texas,MLB,Baseball
+08/24/23,Baltimore Orioles,Toronto Blue Jays,Baltimore,Maryland,MLB,Baseball
+08/24/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+08/24/23,Minnesota Twins,Texas Rangers,Minneapolis,Minnesota,MLB,Baseball
+08/24/23,Chicago White Sox,Oakland Athletics,Chicago,Illinois,MLB,Baseball
+08/24/23,Arizona Diamondbacks,Cincinnati Reds,Phoenix,Arizona,MLB,Baseball
+08/25/23,Detroit Tigers,Houston Astros,Detroit,Michigan,MLB,Baseball
+08/25/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+08/25/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+08/25/23,Baltimore Orioles,Colorado Rockies,Baltimore,Maryland,MLB,Baseball
+08/25/23,Philadelphia Phillies,St. Louis Cardinals,Philadelphia,Pennsylvania,MLB,Baseball
+08/25/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+08/25/23,Toronto Blue Jays,Cleveland Guardians,Toronto,Ontario,MLB,Baseball
+08/25/23,Boston Red Sox,Los Angeles Dodgers,Boston,Massachusetts,MLB,Baseball
+08/25/23,Chicago White Sox,Oakland Athletics,Chicago,Illinois,MLB,Baseball
+08/25/23,New York Mets,Los Angeles Angels,New York,New York,MLB,Baseball
+08/25/23,Milwaukee Brewers,San Diego Padres,Milwaukee,Wisconsin,MLB,Baseball
+08/25/23,Minnesota Twins,Texas Rangers,Minneapolis,Minnesota,MLB,Baseball
+08/25/23,Arizona Diamondbacks,Cincinnati Reds,Phoenix,Arizona,MLB,Baseball
+08/25/23,Seattle Mariners,Kansas City Royals,Seattle,Washington,MLB,Baseball
+08/25/23,San Francisco Giants,Atlanta Braves,San Francisco,California,MLB,Baseball
+08/26/23,Toronto Blue Jays,Cleveland Guardians,Toronto,Ontario,MLB,Baseball
+08/26/23,San Francisco Giants,Atlanta Braves,San Francisco,California,MLB,Baseball
+08/26/23,Boston Red Sox,Los Angeles Dodgers,Boston,Massachusetts,MLB,Baseball
+08/26/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+08/26/23,Seattle Mariners,Kansas City Royals,Seattle,Washington,MLB,Baseball
+08/26/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+08/26/23,Detroit Tigers,Houston Astros,Detroit,Michigan,MLB,Baseball
+08/26/23,Baltimore Orioles,Colorado Rockies,Baltimore,Maryland,MLB,Baseball
+08/26/23,Chicago White Sox,Oakland Athletics,Chicago,Illinois,MLB,Baseball
+08/26/23,Milwaukee Brewers,San Diego Padres,Milwaukee,Wisconsin,MLB,Baseball
+08/26/23,New York Mets,Los Angeles Angels,New York,New York,MLB,Baseball
+08/26/23,Minnesota Twins,Texas Rangers,Minneapolis,Minnesota,MLB,Baseball
+08/26/23,Philadelphia Phillies,St. Louis Cardinals,Philadelphia,Pennsylvania,MLB,Baseball
+08/26/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+08/26/23,Arizona Diamondbacks,Cincinnati Reds,Phoenix,Arizona,MLB,Baseball
+08/27/23,New York Mets,Los Angeles Angels,New York,New York,MLB,Baseball
+08/27/23,Baltimore Orioles,Colorado Rockies,Baltimore,Maryland,MLB,Baseball
+08/27/23,Boston Red Sox,Los Angeles Dodgers,Boston,Massachusetts,MLB,Baseball
+08/27/23,Philadelphia Phillies,St. Louis Cardinals,Philadelphia,Pennsylvania,MLB,Baseball
+08/27/23,Pittsburgh Pirates,Chicago Cubs,Pittsburgh,Pennsylvania,MLB,Baseball
+08/27/23,Toronto Blue Jays,Cleveland Guardians,Toronto,Ontario,MLB,Baseball
+08/27/23,Detroit Tigers,Houston Astros,Detroit,Michigan,MLB,Baseball
+08/27/23,Miami Marlins,Washington Nationals,Miami,Florida,MLB,Baseball
+08/27/23,Tampa Bay Rays,New York Yankees,Tampa,Florida,MLB,Baseball
+08/27/23,Chicago White Sox,Oakland Athletics,Chicago,Illinois,MLB,Baseball
+08/27/23,Milwaukee Brewers,San Diego Padres,Milwaukee,Wisconsin,MLB,Baseball
+08/27/23,Minnesota Twins,Texas Rangers,Minneapolis,Minnesota,MLB,Baseball
+08/27/23,San Francisco Giants,Atlanta Braves,San Francisco,California,MLB,Baseball
+08/27/23,Arizona Diamondbacks,Cincinnati Reds,Phoenix,Arizona,MLB,Baseball
+08/27/23,Seattle Mariners,Kansas City Royals,Seattle,Washington,MLB,Baseball
+08/28/23,Detroit Tigers,New York Yankees,Detroit,Michigan,MLB,Baseball
+08/28/23,Philadelphia Phillies,Los Angeles Angels,Philadelphia,Pennsylvania,MLB,Baseball
+08/28/23,Baltimore Orioles,Chicago White Sox,Baltimore,Maryland,MLB,Baseball
+08/28/23,Toronto Blue Jays,Washington Nationals,Toronto,Ontario,MLB,Baseball
+08/28/23,Boston Red Sox,Houston Astros,Boston,Massachusetts,MLB,Baseball
+08/28/23,New York Mets,Texas Rangers,New York,New York,MLB,Baseball
+08/28/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+08/28/23,St. Louis Cardinals,San Diego Padres,St. Louis,Missouri,MLB,Baseball
+08/28/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/28/23,Kansas City Royals,Pittsburgh Pirates,Kansas City,Missouri,MLB,Baseball
+08/28/23,Colorado Rockies,Atlanta Braves,Denver,Colorado,MLB,Baseball
+08/28/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+08/28/23,San Francisco Giants,Cincinnati Reds,San Francisco,California,MLB,Baseball
+08/28/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+08/29/23,Detroit Tigers,New York Yankees,Detroit,Michigan,MLB,Baseball
+08/29/23,Miami Marlins,Tampa Bay Rays,Miami,Florida,MLB,Baseball
+08/29/23,Philadelphia Phillies,Los Angeles Angels,Philadelphia,Pennsylvania,MLB,Baseball
+08/29/23,Baltimore Orioles,Chicago White Sox,Baltimore,Maryland,MLB,Baseball
+08/29/23,Toronto Blue Jays,Washington Nationals,Toronto,Ontario,MLB,Baseball
+08/29/23,Boston Red Sox,Houston Astros,Boston,Massachusetts,MLB,Baseball
+08/29/23,New York Mets,Texas Rangers,New York,New York,MLB,Baseball
+08/29/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+08/29/23,St. Louis Cardinals,San Diego Padres,St. Louis,Missouri,MLB,Baseball
+08/29/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/29/23,Kansas City Royals,Pittsburgh Pirates,Kansas City,Missouri,MLB,Baseball
+08/29/23,Colorado Rockies,Atlanta Braves,Denver,Colorado,MLB,Baseball
+08/29/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+08/29/23,San Francisco Giants,Cincinnati Reds,San Francisco,California,MLB,Baseball
+08/29/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+08/30/23,Baltimore Orioles,Chicago White Sox,Baltimore,Maryland,MLB,Baseball
+08/30/23,Philadelphia Phillies,Los Angeles Angels,Philadelphia,Pennsylvania,MLB,Baseball
+08/30/23,Minnesota Twins,Cleveland Guardians,Minneapolis,Minnesota,MLB,Baseball
+08/30/23,St. Louis Cardinals,San Diego Padres,St. Louis,Missouri,MLB,Baseball
+08/30/23,Chicago Cubs,Milwaukee Brewers,Chicago,Illinois,MLB,Baseball
+08/30/23,Toronto Blue Jays,Washington Nationals,Toronto,Ontario,MLB,Baseball
+08/30/23,San Francisco Giants,Cincinnati Reds,San Francisco,California,MLB,Baseball
+08/30/23,Boston Red Sox,Houston Astros,Boston,Massachusetts,MLB,Baseball
+08/30/23,Seattle Mariners,Oakland Athletics,Seattle,Washington,MLB,Baseball
+08/30/23,Detroit Tigers,New York Yankees,Detroit,Michigan,MLB,Baseball
+08/30/23,Miami Marlins,Tampa Bay Rays,Miami,Florida,MLB,Baseball
+08/30/23,New York Mets,Texas Rangers,New York,New York,MLB,Baseball
+08/30/23,Kansas City Royals,Pittsburgh Pirates,Kansas City,Missouri,MLB,Baseball
+08/30/23,Colorado Rockies,Atlanta Braves,Denver,Colorado,MLB,Baseball
+08/30/23,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles,California,MLB,Baseball
+08/31/23,Detroit Tigers,New York Yankees,Detroit,Michigan,MLB,Baseball
+08/31/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+08/31/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+08/31/23,Los Angeles Dodgers,Atlanta Braves,Los Angeles,California,MLB,Baseball
+09/01/23,Cincinnati Reds,Chicago Cubs,Cincinnati,Ohio,MLB,Baseball
+09/01/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+09/01/23,Cleveland Guardians,Tampa Bay Rays,Cleveland,Ohio,MLB,Baseball
+09/01/23,New York Mets,Seattle Mariners,New York,New York,MLB,Baseball
+09/01/23,Texas Rangers,Minnesota Twins,Arlington,Texas,MLB,Baseball
+09/01/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+09/01/23,Houston Astros,New York Yankees,Houston,Texas,MLB,Baseball
+09/01/23,Kansas City Royals,Boston Red Sox,Kansas City,Missouri,MLB,Baseball
+09/01/23,Milwaukee Brewers,Philadelphia Phillies,Milwaukee,Wisconsin,MLB,Baseball
+09/01/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+09/01/23,Colorado Rockies,Toronto Blue Jays,Denver,Colorado,MLB,Baseball
+09/01/23,Arizona Diamondbacks,Baltimore Orioles,Phoenix,Arizona,MLB,Baseball
+09/01/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+09/01/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+09/01/23,Los Angeles Dodgers,Atlanta Braves,Los Angeles,California,MLB,Baseball
+09/02/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+09/02/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+09/02/23,Cleveland Guardians,Tampa Bay Rays,Cleveland,Ohio,MLB,Baseball
+09/02/23,Cincinnati Reds,Chicago Cubs,Cincinnati,Ohio,MLB,Baseball
+09/02/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+09/02/23,Houston Astros,New York Yankees,Houston,Texas,MLB,Baseball
+09/02/23,Kansas City Royals,Boston Red Sox,Kansas City,Missouri,MLB,Baseball
+09/02/23,New York Mets,Seattle Mariners,New York,New York,MLB,Baseball
+09/02/23,Milwaukee Brewers,Philadelphia Phillies,Milwaukee,Wisconsin,MLB,Baseball
+09/02/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+09/02/23,Texas Rangers,Minnesota Twins,Arlington,Texas,MLB,Baseball
+09/02/23,Arizona Diamondbacks,Baltimore Orioles,Phoenix,Arizona,MLB,Baseball
+09/02/23,Colorado Rockies,Toronto Blue Jays,Denver,Colorado,MLB,Baseball
+09/02/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+09/02/23,Los Angeles Dodgers,Atlanta Braves,Los Angeles,California,MLB,Baseball
+09/03/23,Cincinnati Reds,Chicago Cubs,Cincinnati,Ohio,MLB,Baseball
+09/03/23,Milwaukee Brewers,Philadelphia Phillies,Milwaukee,Wisconsin,MLB,Baseball
+09/03/23,Washington Nationals,Miami Marlins,Washington D.C.,Washington D.C.,MLB,Baseball
+09/03/23,New York Mets,Seattle Mariners,New York,New York,MLB,Baseball
+09/03/23,Chicago White Sox,Detroit Tigers,Chicago,Illinois,MLB,Baseball
+09/03/23,Kansas City Royals,Boston Red Sox,Kansas City,Missouri,MLB,Baseball
+09/03/23,St. Louis Cardinals,Pittsburgh Pirates,St. Louis,Missouri,MLB,Baseball
+09/03/23,Texas Rangers,Minnesota Twins,Arlington,Texas,MLB,Baseball
+09/03/23,Colorado Rockies,Toronto Blue Jays,Denver,Colorado,MLB,Baseball
+09/03/23,Oakland Athletics,Los Angeles Angels,Oakland,California,MLB,Baseball
+09/03/23,Arizona Diamondbacks,Baltimore Orioles,Phoenix,Arizona,MLB,Baseball
+09/03/23,Cleveland Guardians,Tampa Bay Rays,Cleveland,Ohio,MLB,Baseball
+09/03/23,Los Angeles Dodgers,Atlanta Braves,Los Angeles,California,MLB,Baseball
+09/03/23,San Diego Padres,San Francisco Giants,San Diego,California,MLB,Baseball
+09/03/23,Houston Astros,New York Yankees,Houston,Texas,MLB,Baseball
+09/04/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+09/04/23,Chicago Cubs,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+09/04/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+09/04/23,Oakland Athletics,Toronto Blue Jays,Oakland,California,MLB,Baseball
+09/04/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+09/04/23,Cincinnati Reds,Seattle Mariners,Cincinnati,Ohio,MLB,Baseball
+09/04/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+09/04/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+09/04/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+09/04/23,San Diego Padres,Philadelphia Phillies,San Diego,California,MLB,Baseball
+09/04/23,Los Angeles Angels,Baltimore Orioles,Los Angeles,California,MLB,Baseball
+09/05/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+09/05/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+09/05/23,Cincinnati Reds,Seattle Mariners,Cincinnati,Ohio,MLB,Baseball
+09/05/23,Miami Marlins,Los Angeles Dodgers,Miami,Florida,MLB,Baseball
+09/05/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+09/05/23,New York Yankees,Detroit Tigers,New York,New York,MLB,Baseball
+09/05/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+09/05/23,Atlanta Braves,St. Louis Cardinals,Atlanta,Georgia,MLB,Baseball
+09/05/23,Chicago Cubs,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+09/05/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+09/05/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+09/05/23,Los Angeles Angels,Baltimore Orioles,Los Angeles,California,MLB,Baseball
+09/05/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+09/05/23,Oakland Athletics,Toronto Blue Jays,Oakland,California,MLB,Baseball
+09/05/23,San Diego Padres,Philadelphia Phillies,San Diego,California,MLB,Baseball
+09/06/23,Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh,Pennsylvania,MLB,Baseball
+09/06/23,Cleveland Guardians,Minnesota Twins,Cleveland,Ohio,MLB,Baseball
+09/06/23,Chicago Cubs,San Francisco Giants,Chicago,Illinois,MLB,Baseball
+09/06/23,Oakland Athletics,Toronto Blue Jays,Oakland,California,MLB,Baseball
+09/06/23,Arizona Diamondbacks,Colorado Rockies,Phoenix,Arizona,MLB,Baseball
+09/06/23,San Diego Padres,Philadelphia Phillies,San Diego,California,MLB,Baseball
+09/06/23,Cincinnati Reds,Seattle Mariners,Cincinnati,Ohio,MLB,Baseball
+09/06/23,Miami Marlins,Los Angeles Dodgers,Miami,Florida,MLB,Baseball
+09/06/23,Tampa Bay Rays,Boston Red Sox,Tampa,Florida,MLB,Baseball
+09/06/23,New York Yankees,Detroit Tigers,New York,New York,MLB,Baseball
+09/06/23,Washington Nationals,New York Mets,Washington D.C.,Washington D.C.,MLB,Baseball
+09/06/23,Atlanta Braves,St. Louis Cardinals,Atlanta,Georgia,MLB,Baseball
+09/06/23,Kansas City Royals,Chicago White Sox,Kansas City,Missouri,MLB,Baseball
+09/06/23,Texas Rangers,Houston Astros,Arlington,Texas,MLB,Baseball
+09/06/23,Los Angeles Angels,Baltimore Orioles,Los Angeles,California,MLB,Baseball
+09/07/23,Miami Marlins,Los Angeles Dodgers,Miami,Florida,MLB,Baseball
+09/07/23,Tampa Bay Rays,Seattle Mariners,Tampa,Florida,MLB,Baseball
+09/07/23,New York Yankees,Detroit Tigers,New York,New York,MLB,Baseball
+09/07/23,Atlanta Braves,St. Louis Cardinals,Atlanta,Georgia,MLB,Baseball
+09/07/23,Chicago Cubs,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/07/23,Los Angeles Angels,Cleveland Guardians,Los Angeles,California,MLB,Baseball
+09/08/23,Chicago Cubs,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/08/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+09/08/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+09/08/23,Tampa Bay Rays,Seattle Mariners,Tampa,Florida,MLB,Baseball
+09/08/23,New York Yankees,Milwaukee Brewers,New York,New York,MLB,Baseball
+09/08/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+09/08/23,Washington Nationals,Los Angeles Dodgers,Washington D.C.,Washington D.C.,MLB,Baseball
+09/08/23,Toronto Blue Jays,Kansas City Royals,Toronto,Ontario,MLB,Baseball
+09/08/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+09/08/23,Atlanta Braves,Pittsburgh Pirates,Atlanta,Georgia,MLB,Baseball
+09/08/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+09/08/23,Houston Astros,San Diego Padres,Houston,Texas,MLB,Baseball
+09/08/23,Minnesota Twins,New York Mets,Minneapolis,Minnesota,MLB,Baseball
+09/08/23,Los Angeles Angels,Cleveland Guardians,Los Angeles,California,MLB,Baseball
+09/08/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+09/09/23,New York Yankees,Milwaukee Brewers,New York,New York,MLB,Baseball
+09/09/23,Minnesota Twins,New York Mets,Minneapolis,Minnesota,MLB,Baseball
+09/09/23,Chicago Cubs,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/09/23,Toronto Blue Jays,Kansas City Royals,Toronto,Ontario,MLB,Baseball
+09/09/23,Tampa Bay Rays,Seattle Mariners,Tampa,Florida,MLB,Baseball
+09/09/23,Washington Nationals,Los Angeles Dodgers,Washington D.C.,Washington D.C.,MLB,Baseball
+09/09/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+09/09/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+09/09/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+09/09/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+09/09/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+09/09/23,Houston Astros,San Diego Padres,Houston,Texas,MLB,Baseball
+09/09/23,Atlanta Braves,Pittsburgh Pirates,Atlanta,Georgia,MLB,Baseball
+09/09/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+09/09/23,Los Angeles Angels,Cleveland Guardians,Los Angeles,California,MLB,Baseball
+09/10/23,Philadelphia Phillies,Miami Marlins,Philadelphia,Pennsylvania,MLB,Baseball
+09/10/23,Detroit Tigers,Chicago White Sox,Detroit,Michigan,MLB,Baseball
+09/10/23,Tampa Bay Rays,Seattle Mariners,Tampa,Florida,MLB,Baseball
+09/10/23,Atlanta Braves,Pittsburgh Pirates,Atlanta,Georgia,MLB,Baseball
+09/10/23,Boston Red Sox,Baltimore Orioles,Boston,Massachusetts,MLB,Baseball
+09/10/23,New York Yankees,Milwaukee Brewers,New York,New York,MLB,Baseball
+09/10/23,Washington Nationals,Los Angeles Dodgers,Washington D.C.,Washington D.C.,MLB,Baseball
+09/10/23,Toronto Blue Jays,Kansas City Royals,Toronto,Ontario,MLB,Baseball
+09/10/23,Cincinnati Reds,St. Louis Cardinals,Cincinnati,Ohio,MLB,Baseball
+09/10/23,Houston Astros,San Diego Padres,Houston,Texas,MLB,Baseball
+09/10/23,Minnesota Twins,New York Mets,Minneapolis,Minnesota,MLB,Baseball
+09/10/23,Chicago Cubs,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/10/23,Texas Rangers,Oakland Athletics,Arlington,Texas,MLB,Baseball
+09/10/23,San Francisco Giants,Colorado Rockies,San Francisco,California,MLB,Baseball
+09/10/23,Los Angeles Angels,Cleveland Guardians,Los Angeles,California,MLB,Baseball
+09/11/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+09/11/23,Baltimore Orioles,St. Louis Cardinals,Baltimore,Maryland,MLB,Baseball
+09/11/23,Pittsburgh Pirates,Washington Nationals,Pittsburgh,Pennsylvania,MLB,Baseball
+09/11/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+09/11/23,Toronto Blue Jays,Texas Rangers,Toronto,Ontario,MLB,Baseball
+09/11/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+09/11/23,New York Mets,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/11/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+09/11/23,Milwaukee Brewers,Miami Marlins,Milwaukee,Wisconsin,MLB,Baseball
+09/11/23,Minnesota Twins,Tampa Bay Rays,Minneapolis,Minnesota,MLB,Baseball
+09/11/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+09/11/23,Colorado Rockies,Chicago Cubs,Denver,Colorado,MLB,Baseball
+09/11/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+09/11/23,San Francisco Giants,Cleveland Guardians,San Francisco,California,MLB,Baseball
+09/11/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+09/12/23,Baltimore Orioles,St. Louis Cardinals,Baltimore,Maryland,MLB,Baseball
+09/12/23,Pittsburgh Pirates,Washington Nationals,Pittsburgh,Pennsylvania,MLB,Baseball
+09/12/23,Detroit Tigers,Cincinnati Reds,Detroit,Michigan,MLB,Baseball
+09/12/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+09/12/23,Toronto Blue Jays,Texas Rangers,Toronto,Ontario,MLB,Baseball
+09/12/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+09/12/23,New York Mets,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/12/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+09/12/23,Milwaukee Brewers,Miami Marlins,Milwaukee,Wisconsin,MLB,Baseball
+09/12/23,Minnesota Twins,Tampa Bay Rays,Minneapolis,Minnesota,MLB,Baseball
+09/12/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+09/12/23,Colorado Rockies,Chicago Cubs,Denver,Colorado,MLB,Baseball
+09/12/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+09/12/23,San Francisco Giants,Cleveland Guardians,San Francisco,California,MLB,Baseball
+09/12/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+09/13/23,Minnesota Twins,Tampa Bay Rays,Minneapolis,Minnesota,MLB,Baseball
+09/13/23,Colorado Rockies,Chicago Cubs,Denver,Colorado,MLB,Baseball
+09/13/23,San Francisco Giants,Cleveland Guardians,San Francisco,California,MLB,Baseball
+09/13/23,Seattle Mariners,Los Angeles Angels,Seattle,Washington,MLB,Baseball
+09/13/23,Baltimore Orioles,St. Louis Cardinals,Baltimore,Maryland,MLB,Baseball
+09/13/23,Pittsburgh Pirates,Washington Nationals,Pittsburgh,Pennsylvania,MLB,Baseball
+09/13/23,Detroit Tigers,Cincinnati Reds,Detroit,Michigan,MLB,Baseball
+09/13/23,Philadelphia Phillies,Atlanta Braves,Philadelphia,Pennsylvania,MLB,Baseball
+09/13/23,Toronto Blue Jays,Texas Rangers,Toronto,Ontario,MLB,Baseball
+09/13/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+09/13/23,Houston Astros,Oakland Athletics,Houston,Texas,MLB,Baseball
+09/13/23,New York Mets,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/13/23,Chicago White Sox,Kansas City Royals,Chicago,Illinois,MLB,Baseball
+09/13/23,Milwaukee Brewers,Miami Marlins,Milwaukee,Wisconsin,MLB,Baseball
+09/13/23,Los Angeles Dodgers,San Diego Padres,Los Angeles,California,MLB,Baseball
+09/14/23,Pittsburgh Pirates,Washington Nationals,Pittsburgh,Pennsylvania,MLB,Baseball
+09/14/23,Detroit Tigers,Cincinnati Reds,Detroit,Michigan,MLB,Baseball
+09/14/23,Milwaukee Brewers,Miami Marlins,Milwaukee,Wisconsin,MLB,Baseball
+09/14/23,New York Mets,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/14/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+09/14/23,Toronto Blue Jays,Texas Rangers,Toronto,Ontario,MLB,Baseball
+09/14/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+09/14/23,Boston Red Sox,New York Yankees,Boston,Massachusetts,MLB,Baseball
+09/14/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+09/15/23,Pittsburgh Pirates,New York Yankees,Pittsburgh,Pennsylvania,MLB,Baseball
+09/15/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+09/15/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+09/15/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+09/15/23,Cleveland Guardians,Texas Rangers,Cleveland,Ohio,MLB,Baseball
+09/15/23,New York Mets,Cincinnati Reds,New York,New York,MLB,Baseball
+09/15/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+09/15/23,Kansas City Royals,Houston Astros,Kansas City,Missouri,MLB,Baseball
+09/15/23,Milwaukee Brewers,Washington Nationals,Milwaukee,Wisconsin,MLB,Baseball
+09/15/23,St. Louis Cardinals,Philadelphia Phillies,St. Louis,Missouri,MLB,Baseball
+09/15/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+09/15/23,Los Angeles Angels,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/15/23,Arizona Diamondbacks,Chicago Cubs,Phoenix,Arizona,MLB,Baseball
+09/15/23,Oakland Athletics,San Diego Padres,Oakland,California,MLB,Baseball
+09/15/23,Seattle Mariners,Los Angeles Dodgers,Seattle,Washington,MLB,Baseball
+09/16/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+09/16/23,Oakland Athletics,San Diego Padres,Oakland,California,MLB,Baseball
+09/16/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+09/16/23,Cleveland Guardians,Texas Rangers,Cleveland,Ohio,MLB,Baseball
+09/16/23,Pittsburgh Pirates,New York Yankees,Pittsburgh,Pennsylvania,MLB,Baseball
+09/16/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+09/16/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+09/16/23,Kansas City Royals,Houston Astros,Kansas City,Missouri,MLB,Baseball
+09/16/23,Milwaukee Brewers,Washington Nationals,Milwaukee,Wisconsin,MLB,Baseball
+09/16/23,New York Mets,Cincinnati Reds,New York,New York,MLB,Baseball
+09/16/23,St. Louis Cardinals,Philadelphia Phillies,St. Louis,Missouri,MLB,Baseball
+09/16/23,Arizona Diamondbacks,Chicago Cubs,Phoenix,Arizona,MLB,Baseball
+09/16/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+09/16/23,Los Angeles Angels,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/16/23,Seattle Mariners,Los Angeles Dodgers,Seattle,Washington,MLB,Baseball
+09/17/23,Baltimore Orioles,Tampa Bay Rays,Baltimore,Maryland,MLB,Baseball
+09/17/23,Pittsburgh Pirates,New York Yankees,Pittsburgh,Pennsylvania,MLB,Baseball
+09/17/23,Toronto Blue Jays,Boston Red Sox,Toronto,Ontario,MLB,Baseball
+09/17/23,Cleveland Guardians,Texas Rangers,Cleveland,Ohio,MLB,Baseball
+09/17/23,Miami Marlins,Atlanta Braves,Miami,Florida,MLB,Baseball
+09/17/23,New York Mets,Cincinnati Reds,New York,New York,MLB,Baseball
+09/17/23,Chicago White Sox,Minnesota Twins,Chicago,Illinois,MLB,Baseball
+09/17/23,Kansas City Royals,Houston Astros,Kansas City,Missouri,MLB,Baseball
+09/17/23,Milwaukee Brewers,Washington Nationals,Milwaukee,Wisconsin,MLB,Baseball
+09/17/23,St. Louis Cardinals,Philadelphia Phillies,St. Louis,Missouri,MLB,Baseball
+09/17/23,Colorado Rockies,San Francisco Giants,Denver,Colorado,MLB,Baseball
+09/17/23,Los Angeles Angels,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/17/23,Oakland Athletics,San Diego Padres,Oakland,California,MLB,Baseball
+09/17/23,Arizona Diamondbacks,Chicago Cubs,Phoenix,Arizona,MLB,Baseball
+09/17/23,Seattle Mariners,Los Angeles Dodgers,Seattle,Washington,MLB,Baseball
+09/18/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+09/18/23,Cincinnati Reds,Minnesota Twins,Cincinnati,Ohio,MLB,Baseball
+09/18/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+09/18/23,Washington Nationals,Chicago White Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+09/18/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+09/18/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+09/18/23,Texas Rangers,Boston Red Sox,Arlington,Texas,MLB,Baseball
+09/18/23,Houston Astros,Baltimore Orioles,Houston,Texas,MLB,Baseball
+09/18/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+09/18/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+09/18/23,Los Angeles Dodgers,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/19/23,Cincinnati Reds,Minnesota Twins,Cincinnati,Ohio,MLB,Baseball
+09/19/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+09/19/23,Tampa Bay Rays,Los Angeles Angels,Tampa,Florida,MLB,Baseball
+09/19/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+09/19/23,Washington Nationals,Chicago White Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+09/19/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+09/19/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+09/19/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+09/19/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+09/19/23,Texas Rangers,Boston Red Sox,Arlington,Texas,MLB,Baseball
+09/19/23,Houston Astros,Baltimore Orioles,Houston,Texas,MLB,Baseball
+09/19/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+09/19/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+09/19/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+09/19/23,Los Angeles Dodgers,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/20/23,Atlanta Braves,Philadelphia Phillies,Atlanta,Georgia,MLB,Baseball
+09/20/23,Cincinnati Reds,Minnesota Twins,Cincinnati,Ohio,MLB,Baseball
+09/20/23,Washington Nationals,Chicago White Sox,Washington D.C.,Washington D.C.,MLB,Baseball
+09/20/23,Texas Rangers,Boston Red Sox,Arlington,Texas,MLB,Baseball
+09/20/23,Houston Astros,Baltimore Orioles,Houston,Texas,MLB,Baseball
+09/20/23,Kansas City Royals,Cleveland Guardians,Kansas City,Missouri,MLB,Baseball
+09/20/23,Oakland Athletics,Seattle Mariners,Oakland,California,MLB,Baseball
+09/20/23,Arizona Diamondbacks,San Francisco Giants,Phoenix,Arizona,MLB,Baseball
+09/20/23,San Diego Padres,Colorado Rockies,San Diego,California,MLB,Baseball
+09/20/23,Miami Marlins,New York Mets,Miami,Florida,MLB,Baseball
+09/20/23,Tampa Bay Rays,Los Angeles Angels,Tampa,Florida,MLB,Baseball
+09/20/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+09/20/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+09/20/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+09/20/23,Los Angeles Dodgers,Detroit Tigers,Los Angeles,California,MLB,Baseball
+09/21/23,Tampa Bay Rays,Los Angeles Angels,Tampa,Florida,MLB,Baseball
+09/21/23,St. Louis Cardinals,Milwaukee Brewers,St. Louis,Missouri,MLB,Baseball
+09/21/23,New York Yankees,Toronto Blue Jays,New York,New York,MLB,Baseball
+09/21/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+09/21/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+09/21/23,Cleveland Guardians,Baltimore Orioles,Cleveland,Ohio,MLB,Baseball
+09/21/23,Chicago Cubs,Pittsburgh Pirates,Chicago,Illinois,MLB,Baseball
+09/21/23,Oakland Athletics,Detroit Tigers,Oakland,California,MLB,Baseball
+09/21/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+09/22/23,Chicago Cubs,Colorado Rockies,Chicago,Illinois,MLB,Baseball
+09/22/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+09/22/23,Miami Marlins,Milwaukee Brewers,Miami,Florida,MLB,Baseball
+09/22/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+09/22/23,New York Yankees,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/22/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+09/22/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+09/22/23,Boston Red Sox,Chicago White Sox,Boston,Massachusetts,MLB,Baseball
+09/22/23,Cleveland Guardians,Baltimore Orioles,Cleveland,Ohio,MLB,Baseball
+09/22/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+09/22/23,Houston Astros,Kansas City Royals,Houston,Texas,MLB,Baseball
+09/22/23,Minnesota Twins,Los Angeles Angels,Minneapolis,Minnesota,MLB,Baseball
+09/22/23,Oakland Athletics,Detroit Tigers,Oakland,California,MLB,Baseball
+09/22/23,San Diego Padres,St. Louis Cardinals,San Diego,California,MLB,Baseball
+09/22/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+09/23/23,New York Yankees,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/23/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+09/23/23,Minnesota Twins,Los Angeles Angels,Minneapolis,Minnesota,MLB,Baseball
+09/23/23,Chicago Cubs,Colorado Rockies,Chicago,Illinois,MLB,Baseball
+09/23/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+09/23/23,Oakland Athletics,Detroit Tigers,Oakland,California,MLB,Baseball
+09/23/23,Boston Red Sox,Chicago White Sox,Boston,Massachusetts,MLB,Baseball
+09/23/23,Miami Marlins,Milwaukee Brewers,Miami,Florida,MLB,Baseball
+09/23/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+09/23/23,Cleveland Guardians,Baltimore Orioles,Cleveland,Ohio,MLB,Baseball
+09/23/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+09/23/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+09/23/23,Houston Astros,Kansas City Royals,Houston,Texas,MLB,Baseball
+09/23/23,San Diego Padres,St. Louis Cardinals,San Diego,California,MLB,Baseball
+09/23/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+09/24/23,Philadelphia Phillies,New York Mets,Philadelphia,Pennsylvania,MLB,Baseball
+09/24/23,Tampa Bay Rays,Toronto Blue Jays,Tampa,Florida,MLB,Baseball
+09/24/23,Boston Red Sox,Chicago White Sox,Boston,Massachusetts,MLB,Baseball
+09/24/23,New York Yankees,Arizona Diamondbacks,New York,New York,MLB,Baseball
+09/24/23,Washington Nationals,Atlanta Braves,Washington D.C.,Washington D.C.,MLB,Baseball
+09/24/23,Cincinnati Reds,Pittsburgh Pirates,Cincinnati,Ohio,MLB,Baseball
+09/24/23,Cleveland Guardians,Baltimore Orioles,Cleveland,Ohio,MLB,Baseball
+09/24/23,Miami Marlins,Milwaukee Brewers,Miami,Florida,MLB,Baseball
+09/24/23,Houston Astros,Kansas City Royals,Houston,Texas,MLB,Baseball
+09/24/23,Minnesota Twins,Los Angeles Angels,Minneapolis,Minnesota,MLB,Baseball
+09/24/23,Chicago Cubs,Colorado Rockies,Chicago,Illinois,MLB,Baseball
+09/24/23,Texas Rangers,Seattle Mariners,Arlington,Texas,MLB,Baseball
+09/24/23,Oakland Athletics,Detroit Tigers,Oakland,California,MLB,Baseball
+09/24/23,Los Angeles Dodgers,San Francisco Giants,Los Angeles,California,MLB,Baseball
+09/24/23,San Diego Padres,St. Louis Cardinals,San Diego,California,MLB,Baseball
+09/25/23,Chicago White Sox,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/25/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+09/25/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+09/25/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+09/26/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+09/26/23,Cleveland Guardians,Cincinnati Reds,Cleveland,Ohio,MLB,Baseball
+09/26/23,Baltimore Orioles,Washington Nationals,Baltimore,Maryland,MLB,Baseball
+09/26/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+09/26/23,Philadelphia Phillies,Pittsburgh Pirates,Philadelphia,Pennsylvania,MLB,Baseball
+09/26/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+09/26/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+09/26/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+09/26/23,Atlanta Braves,Chicago Cubs,Atlanta,Georgia,MLB,Baseball
+09/26/23,Chicago White Sox,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/26/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+09/26/23,Minnesota Twins,Oakland Athletics,Minneapolis,Minnesota,MLB,Baseball
+09/26/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+09/26/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+09/26/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+09/26/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+09/27/23,Chicago White Sox,Arizona Diamondbacks,Chicago,Illinois,MLB,Baseball
+09/27/23,Boston Red Sox,Tampa Bay Rays,Boston,Massachusetts,MLB,Baseball
+09/27/23,Cleveland Guardians,Cincinnati Reds,Cleveland,Ohio,MLB,Baseball
+09/27/23,Baltimore Orioles,Washington Nationals,Baltimore,Maryland,MLB,Baseball
+09/27/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+09/27/23,Philadelphia Phillies,Pittsburgh Pirates,Philadelphia,Pennsylvania,MLB,Baseball
+09/27/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+09/27/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+09/27/23,Atlanta Braves,Chicago Cubs,Atlanta,Georgia,MLB,Baseball
+09/27/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+09/27/23,Minnesota Twins,Oakland Athletics,Minneapolis,Minnesota,MLB,Baseball
+09/27/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+09/27/23,Los Angeles Angels,Texas Rangers,Los Angeles,California,MLB,Baseball
+09/27/23,Seattle Mariners,Houston Astros,Seattle,Washington,MLB,Baseball
+09/27/23,San Francisco Giants,San Diego Padres,San Francisco,California,MLB,Baseball
+09/28/23,Detroit Tigers,Kansas City Royals,Detroit,Michigan,MLB,Baseball
+09/28/23,Minnesota Twins,Oakland Athletics,Minneapolis,Minnesota,MLB,Baseball
+09/28/23,Philadelphia Phillies,Pittsburgh Pirates,Philadelphia,Pennsylvania,MLB,Baseball
+09/28/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+09/28/23,Toronto Blue Jays,New York Yankees,Toronto,Ontario,MLB,Baseball
+09/28/23,New York Mets,Miami Marlins,New York,New York,MLB,Baseball
+09/28/23,Atlanta Braves,Chicago Cubs,Atlanta,Georgia,MLB,Baseball
+09/28/23,Milwaukee Brewers,St. Louis Cardinals,Milwaukee,Wisconsin,MLB,Baseball
+09/28/23,Colorado Rockies,Los Angeles Dodgers,Denver,Colorado,MLB,Baseball
+09/28/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+09/29/23,Pittsburgh Pirates,Miami Marlins,Pittsburgh,Pennsylvania,MLB,Baseball
+09/29/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+09/29/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+09/29/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+09/29/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+09/29/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+09/29/23,Chicago White Sox,San Diego Padres,Chicago,Illinois,MLB,Baseball
+09/29/23,Colorado Rockies,Minnesota Twins,Denver,Colorado,MLB,Baseball
+09/29/23,Kansas City Royals,New York Yankees,Kansas City,Missouri,MLB,Baseball
+09/29/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+09/29/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
+09/29/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+09/29/23,Arizona Diamondbacks,Houston Astros,Phoenix,Arizona,MLB,Baseball
+09/29/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+09/29/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+09/30/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+09/30/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+09/30/23,Pittsburgh Pirates,Miami Marlins,Pittsburgh,Pennsylvania,MLB,Baseball
+09/30/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+09/30/23,Chicago White Sox,San Diego Padres,Chicago,Illinois,MLB,Baseball
+09/30/23,Kansas City Royals,New York Yankees,Kansas City,Missouri,MLB,Baseball
+09/30/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+09/30/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+09/30/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
+09/30/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+09/30/23,Arizona Diamondbacks,Houston Astros,Phoenix,Arizona,MLB,Baseball
+09/30/23,Colorado Rockies,Minnesota Twins,Denver,Colorado,MLB,Baseball
+09/30/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+09/30/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+09/30/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+10/01/23,Atlanta Braves,Washington Nationals,Atlanta,Georgia,MLB,Baseball
+10/01/23,Baltimore Orioles,Boston Red Sox,Baltimore,Maryland,MLB,Baseball
+10/01/23,Pittsburgh Pirates,Miami Marlins,Pittsburgh,Pennsylvania,MLB,Baseball
+10/01/23,San Francisco Giants,Los Angeles Dodgers,San Francisco,California,MLB,Baseball
+10/01/23,Los Angeles Angels,Oakland Athletics,Los Angeles,California,MLB,Baseball
+10/01/23,Toronto Blue Jays,Tampa Bay Rays,Toronto,Ontario,MLB,Baseball
+10/01/23,Arizona Diamondbacks,Houston Astros,Phoenix,Arizona,MLB,Baseball
+10/01/23,Chicago White Sox,San Diego Padres,Chicago,Illinois,MLB,Baseball
+10/01/23,Colorado Rockies,Minnesota Twins,Denver,Colorado,MLB,Baseball
+10/01/23,Detroit Tigers,Cleveland Guardians,Detroit,Michigan,MLB,Baseball
+10/01/23,Kansas City Royals,New York Yankees,Kansas City,Missouri,MLB,Baseball
+10/01/23,Milwaukee Brewers,Chicago Cubs,Milwaukee,Wisconsin,MLB,Baseball
+10/01/23,New York Mets,Philadelphia Phillies,New York,New York,MLB,Baseball
+10/01/23,Seattle Mariners,Texas Rangers,Seattle,Washington,MLB,Baseball
+10/01/23,St. Louis Cardinals,Cincinnati Reds,St. Louis,Missouri,MLB,Baseball
